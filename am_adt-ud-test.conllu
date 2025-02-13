@@ -1,0 +1,255 @@
+# Student = Dawit Jembere
+# Language = amh (Amharic, Ethiopian Semitic language), eng (English)
+# Description = 
+# For each sentence: "#sent_id", "#text_amh", "#text_en"
+# For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment
+# sent_id = 01
+# text_amh = አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
+# text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal             
+# text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
+# language = Amharic
+1	“	“	PUNCT	_	_	10	punct	_	Transliteration=“|Gloss=“
+2	አብዛኛው	አብዛኛ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	5	amod	_	Transliteration=ʾabzāñyaw|Gloss=majority
+3	የ	የ	ADP	_	_	4	case	_	Transliteration=ye|Gloss=of
+4	ዲጂታል	ዲጂታል	ADJ	_	_	4	amod	_	Transliteration=dijīṭāl|Gloss=digital
+5	ሽግግር	ሽግግር	NOUN	_	_	5	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
+6	በ	በ	ADP	_	_	7	case	_	Transliteration=be|Gloss=in
+7	ዩናይትድ	ዩናይትድ	ADJ	_	_	7	amod	_	Transliteration=yunāyṭǝd|Gloss=united
+8	ስቴትስ	ስቴትስ	NOUN	_	_	8	obl	_	Transliteration=sǝṭeyṭes|Gloss=states
+9	ታይቶ	ታይቶ	VERB	_	_	0	root	_	Transliteration=tāyto|Gloss=seen
+10	ቢ	ቢ	AUX	_	_	10	aux	_	Transliteration=bi|Gloss=if
+11	ሆን	ሆን	VERB	_	_	8	ccomp	_	Transliteration=hon|Gloss=be
+12	ም	ም	SCONJ	_	_	10	mark	_	Transliteration=mǝ|Gloss=(conditional marker)
+13	ሰላማዊው	ሰላማዊ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	14	amod	_	Transliteration=salāmawīw|Gloss=peaceful
+14	የ	የ	ADP	_	_	14	case	_	Transliteration=ye|Gloss=of
+15	ስልጣን	ስልጣን	NOUN	_	_	15	nsubj	_	Transliteration=sǝlṭān|Gloss=power
+16	ሽግግር	ሽግግር	NOUN	_	_	17	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
+17	ግን	ግን	CCONJ	_	_	17	cc	_	Transliteration=gǝn|Gloss=but
+18	አይደለም	አይደለም	VERB	_	_	8	conj	_	Transliteration=ʾāydǝlǝm|Gloss=not
+19	”	”	PUNCT	_	_	8	punct	_	Transliteration="|Gloss="
+20	ሲሉ	ሲሉ	VERB	_	_	8	parataxis	_	Transliteration=sīlu|Gloss=saying
+21	የ	የ	ADP	_	_	22	case	_	Transliteration=ye|Gloss=of
+22	ኦባማ	ኦባማ	PROPN	_	_	22	compound	_	Transliteration=ʾobāmā|Gloss=Obama
+23	ልዩ	ልዩ	ADJ	_	_	23	amod	_	Transliteration=lǝyyu|Gloss=special
+24	ረዳት	ረዳት	NOUN	_	_	24	nsubj	_	Transliteration=rǝdāt|Gloss=assistant
+25	የሆኑት	ሆኑ	VERB	_	_	23	acl:relcl	_	Transliteration=yehonut|Gloss=who is
+26	ኮሪ	ኮሪ	PROPN	_	_	24	flat	_	Transliteration=korī|Gloss=Kori
+27	ሹልማን	ሹልማን	PROPN	_	_	25	flat	_	Transliteration=šulman|Gloss=Schulman
+28	ሰኞ	ሰኞ	NOUN	_	_	24	obl	_	Transliteration=sanǝňňo|Gloss=Monday
+29	በ	በ	ADP	_	_	30	case	_	Transliteration=be|Gloss=in
+30	ብሎግ	ብሎግ	NOUN	_	_	30	obl	_	Transliteration=bǝlog|Gloss=blog
+31	ፅፈዋል	ፅፈዋል	VERB	_	_	24	ccomp	_	Transliteration=ṣǝfewāl|Gloss=wrote
+32	።	።	PUNCT	_	_	8	punct	_	Transliteration="|Gloss=.
+
+# sent_id = 02
+# text_amh = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
+# text_ipa = bekapītoli hīli layi yemahiberawī mīdīya shigigirochini lemīketelu, yihi tinishi yeteleye yihonali             
+# text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
+# language = Amharic
+1	በ	በ	ADP	_	_	2	case	_	Transliteration=be|Gloss=in
+2	ካፒቶል	ካፒቶል	NOUN	_	_	3	compound	_	Transliteration=kapitōl|Gloss=Capitol
+3	ሂል	ሂል	NOUN	_	_	5	obl	_	Transliteration=hil|Gloss=Hill
+4	የ	የ	ADP	_	_	5	case	_	Transliteration=ye|Gloss=of
+5	ማህበራዊ	ማህበራዊ	ADJ	_	_	6	amod	_	Transliteration=māhǝbǝrāwī|Gloss=social
+6	ሚዲያ	ሚዲያ	NOUN	_	_	7	compound	_	Transliteration=mīdiyā|Gloss=media
+7	ሽግግሮችን	ሽግግሮች	NOUN	_	_	10	obj	_	Transliteration=šǝgigǝroččǝn|Gloss=transitions
+8	ለ	ለ	ADP	_	_	10	case	_	Transliteration=le|Gloss=for
+9	ሚከተሉ	ሚከተ	VERB	_	_	10	acl:relcl	_	Transliteration=mīkatǝlu|Gloss=following
+10	ይህ	ይህ	PRON	_	_	12	nsubj	_	Transliteration=yǝhǝ|Gloss=this
+11	ትንሽ	ትንሽ	ADJ	_	_	12	amod	_	Transliteration=tǝnǝš|Gloss=little
+12	የተለየ	የተለየ	ADJ	_	_	13	cop	_	Transliteration=yetelǝye|Gloss=special
+13	ይሆናል	ይሆናል	VERB	_	_	0	root	_	Transliteration=yihonal|Gloss=will be
+14	።	።	PUNCT	_	_	13	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 03
+# text_amh = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ በ"ብቃት ስርዓት" ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
+# text_ipa = negeri gini īmīgirēshinini silemegedebi kalefewi nigigiru irefiti layi, yejī'opī teshwamīwi inide pirēzidenitinetu be"bik'ati siri'ati" layi bememesireti higawī sidetenyochini “ijigi bet'ami bizu” inidemīfek'idi āsitawik'wali.             
+# text_en = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
+# language = Amharic
+1	ነገር	ነገር	NOUN	_	_	17	nsubj	_	Transliteration=nägär|Gloss=however
+2	ግን	ግን	CCONJ	_	_	1	cc	_	Transliteration=gǝn|Gloss=but
+3	ኢሚግሬሽንን	ኢሚግሬሽን	NOUN	_	Case=Acc|Definite=Def|Gender=Neut	4	obl	_	Transliteration=ʾimigrašǝnnǝn|Gloss=immigration
+4	ስለመገደብ	ስለመገደብ	VERB	_	_	17	obl	_	Transliteration=sǝlä-mägädäb|Gloss=regarding
+5	ካለፈው	ካለፈ	VERB	_	_	6	amod	_	Transliteration=kalläffäw|Gloss=has passed
+6	ንግግሩ	ንግግር	NOUN	_	_	4	nsubj	_	Transliteration=nǝggǝggǝru|Gloss=speech
+7	እረፍት	እረፍት	NOUN	_	_	8	obl	_	Transliteration=ʾäräft|Gloss=break
+8	ላይ	ላይ	ADP	_	_	6	obl	_	Transliteration=läy|Gloss=on
+9	፣	፣	PUNCT	_	_	8	punct	_	Transliteration=,|Gloss=,
+10	የጂኦፒ	ጂኦፒ	PROPN	_	_	12	compound	_	Transliteration=ǧiʾopi|Gloss=GOP
+11	ተሿሚው	ተሿሚ	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	Transliteration=täšwamiw|Gloss=nominee
+12	እንደ	እንደ	ADP	_	_	17	advmod	_	Transliteration=ʾǝnda|Gloss=as
+13	ፕሬዝደንትነቱ	ፕሬዝደንትነት	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	14	compound	_	Transliteration=pǝrezydännätu|Gloss=presidency
+14	በብቃት	ብቃት	NOUN	_	_	15	obl	_	Transliteration=bäbǝqat|Gloss=merit
+15	ስርዓት	ስርዓት	NOUN	_	_	17	obl	_	Transliteration=sǝräʿat|Gloss=system
+16	ላይ	ላይ	ADP	_	_	15	case	_	Transliteration=läy|Gloss=on
+17	በመመስረት	መመስረት	VERB	_	_	0	root	_	Transliteration=bämämmäsrät|Gloss=based on
+18	ህጋዊ	ህጋዊ	ADJ	_	_	20	amod	_	Transliteration=hǝgäwi|Gloss=legal
+19	ስደተኞችን	ስደተኞች	NOUN	_	Case=Acc|Definite=Def|Gender=Neut	20	obj	_	Transliteration=sǝdätäňočǝn|Gloss=refugees
+20	እጅግ	እጅግ	ADV	_	_	21	advmod	_	Transliteration=ʾǝǧǧǝg|Gloss=very
+21	በጣም	በጣም	ADV	_	_	17	advmod	_	Transliteration=bäṭam|Gloss=extremely
+22	ብዙ	ብዙ	ADJ	_	_	17	amod	_	Transliteration=bǝzu|Gloss=many
+23	እንደሚፈቅድ	እንደሚፈቅድ	VERB	_	_	17	ccomp	_	Transliteration=ʾǝnda-mifäqäd|Gloss=would allow
+24	አስታውቋል	አስታውቋል	VERB	_	_	17	advmod	_	Transliteration=ʾastawwäqal|Gloss=indicated
+25	።	።	PUNCT	_	_	17	punct	_	Transliteration="|Gloss=.
+
+# sent_id = 04
+# text_amh = በሰሜን ካሮላይና ዩኒቨርስቲ በስፖርት ሜዳ ለተሰበሰበው ህዝብ "ስለዚህ ትንሽ ጫና ማድረግ እጠላለሁ፣ የሪፐብሊኩ እጣ ፈንታ ግን በትከሻችሁ ላይ ነው" ብሏል።
+# text_ipa = besemēni karolayina yunīverisitī besiporiti mēda letesebesebewi hizibi "silezīhi tinishi ch'ana madiregi it'elalehu, yerīpebilīku it'a fenita gini betikeshachihu layi newi" bilwali             
+# text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
+# language = Amharic
+1	በ	በ	ADP	_	_	4	case	_	Transliteration=bä|Gloss=in
+2	ሰሜን	ሰሜን	ADJ	_	_	4	amod	_	Transliteration=sämēn|Gloss=North
+3	ካሮላይና	ካሮላይና	PROPN	_	_	4	compound	_	Transliteration=karolayina|Gloss=Carolina
+4	ዩኒቨርስቲ	ዩኒቨርስቲ	NOUN	_	_	0	root	_	Transliteration=yunivärsiti|Gloss=University
+5	በ	በ	ADP	_	_	7	case	_	Transliteration=bä|Gloss=in
+6	ስፖርት	ስፖርት	NOUN	_	_	7	compound	_	Transliteration=spärt|Gloss=sport
+7	ሜዳ	ሜዳ	NOUN	_	_	4	nmod	_	Transliteration=mēda|Gloss=field
+8	ለ	ለ	ADP	_	_	11	case	_	Transliteration=lä|Gloss=to
+9	ተሰበሰበ	ተሰበሰበ	VERB	_	_	11	acl	_	Transliteration=täsäbbäsäbä|Gloss=gathered
+10	ው	ው	DET	_	_	11	det	_	Transliteration=w|Gloss=the
+11	ህዝብ	ህዝብ	NOUN	_	_	7	nmod	_	Transliteration=hǝzb|Gloss=crowd
+12	"	"	PUNCT	_	_	13	punct	_	Transliteration="|Gloss="
+13	ስለዚህ	ስለዚህ	SCONJ	_	_	28	advmod	_	Transliteration=sǝläzih|Gloss=Therefore
+14	ትንሽ	ትንሽ	ADJ	_	_	15	amod	_	Transliteration=tänǝš|Gloss=little
+15	ጫና	ጫና	NOUN	_	_	28	obj	_	Transliteration=č’ana|Gloss=pressure
+16	ማድረግ	ማድረግ	VERB	_	_	15	acl	_	Transliteration=madäräg|Gloss=causing
+17	እጠላለሁ	እጠላለሁ	VERB	_	_	13	parataxis	_	Transliteration=ǝṭ’ällallähu|Gloss=I dislike
+18	፣	፣	PUNCT	_	_	28	punct	_	Transliteration=,|Gloss=,
+19	የሪፐብሊኩ	የ	POS	_	_	21	case	_	Transliteration=ye|Gloss=of
+20	ሪፐብሊኩ	ሪፐብሊኩ	PROPN	_	_	19	nmod	_	Transliteration=ripäblik’u|Gloss=republic
+21	እጣ	እጣ	NOUN	_	_	28	nsubj	_	Transliteration=ǝṭ’a|Gloss=destiny
+22	ፈንታ	ፈንታ	NOUN	_	_	21	compound	_	Transliteration=fäntä|Gloss=fate
+23	ግን	ግን	CCONJ	_	_	28	cc	_	Transliteration=gǝn|Gloss=however
+24	በትከሻችሁ	በ	ADP	_	_	27	case	_	Transliteration=bä|Gloss=on
+25	ትከሻች	ትከሻ	NOUN	_	_	27	compound	_	Transliteration=tǝkäša|Gloss=shoulders
+26	ሁ	ሁ	PRON	_	_	27	det	_	Transliteration=hu|Gloss=your
+27	ላይ	ላይ	ADP	_	_	28	compound	_	Transliteration=lay|Gloss=on
+28	ነው	ነው	AUX	_	_	0	root	_	Transliteration=näw|Gloss=is
+29	"	"	PUNCT	_	_	30	punct	_	Transliteration="|Gloss="
+30	ብሏል	ብሏል	VERB	_	_	28	parataxis	_	Transliteration=bǝlwal|Gloss=said
+31	።	።	PUNCT	_	_	30	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 05
+# text_amh = አዲሱ ወጪ በክሊንተን ትልቅ የባንክ አካውንት ነው የተቀጣጠለው።
+# text_ipa = ādīsu wech'ī bekilīniteni tilik'i yebaniki ākawiniti newi yetek'et'at'elewi             
+# text_en = The new spending is fueled by Clinton’s large bank account.
+# language = Amharic
+1	አዲሱ	አዲሱ	ADJ	_	_	2	amod	_	Transliteration=adisu|Gloss=new
+2	ወጪ	ወጪ	NOUN	_	_	0	root	_	Transliteration=wäč’ǝ|Gloss=spending
+3	በ	በ	ADP	_	_	4	case	_	Transliteration=bä|Gloss=by
+4	ክሊንተን	ክሊንተን	PROPN	_	_	2	nmod	_	Transliteration=Klintän|Gloss=Clinton
+5	ትልቅ	ትልቅ	ADJ	_	_	8	amod	_	Transliteration=tǝllǝk|Gloss=large
+6	የ	የ	GEN	_	_	8	case	_	Transliteration=ya|Gloss=of
+7	ባንክ	ባንክ	NOUN	_	_	8	compound	_	Transliteration=bank|Gloss=bank
+8	አካውንት	አካውንት	NOUN	_	_	2	nmod	_	Transliteration=akawǝnt|Gloss=account
+9	ነው	ነው	AUX	_	_	2	cop	_	Transliteration=näw|Gloss=is
+10	የተቀጣጠለው	የተቀጣጠለው	VERB	_	_	9	acl	_	Transliteration=yätäḳäṭäṭälläw|Gloss=linked
+11	።	።	PUNCT	_	_	2	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 06
+# text_amh = የምትናገረው እና የምትሰራው እሱ በእውነቱ የማይታመን ነው።
+# text_ipa = yemitinagerewi ina yemitiserawi, isu - be'iwinetu, yemayitameni newi             
+# text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
+# language = Amharic
+1	የምትናገረው	የምትናገረው	VERB	_	_	2	acl	_	Transliteration=yä-mǝtǝnaggäräwǝ|Gloss=what.you.say
+2	እና	እና	CCONJ	_	_	1	cc	_	Transliteration=änna|Gloss=and
+3	የምትሰራው	የምትሰራው	VERB	_	_	1	conj	_	Transliteration=yä-mǝtǝsärawǝ|Gloss=what.you.do
+4	እሱ	እሱ	PRON	_	_	6	nsubj	_	Transliteration=ǝsu|Gloss=he/it
+5	በእውነቱ	በእውነቱ	ADV	_	_	6	advmod	_	Transliteration=bä-ǝwǝnätǝw|Gloss=truly
+6	የማይታመን	የማይታመን	VERB	_	_	4	cop	_	Transliteration=yä-ma-yǝtämmän|Gloss=unreliable
+7	ነው	ነው	AUX	_	_	6	aux	_	Transliteration=näw|Gloss=is
+8	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 07
+# text_amh = በአንድ ሰው 5,000 ዶላር፣ የሚፈቀደው ከፍተኛ።
+# text_ipa = be'ānidi sewi 5,000 dolari, yemīfek'edewi kefitenya             
+# text_en = $5,000 per person, the maximum allowed.
+# language = Amharic
+1	በአንድ	በአንድ	ADP	_	_	2	case	_	Transliteration=bä-and|Gloss=per.one
+2	ሰው	ሰው	NOUN	_	_	5	nmod	_	Transliteration=säw|Gloss=person
+3	5,000	5,000	NUM	_	_	5	nummod	_	Transliteration=5,000|Gloss=5000
+4	ዶላር	ዶላር	NOUN	_	_	5	compound	_	Transliteration=dolar|Gloss=dollars
+5	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	7	amod	_	Transliteration=yä-mifäqqädäw|Gloss=allowed
+6	ከፍተኛ	ከፍተኛ	ADJ	_	_	7	amod	_	Transliteration=käfätäñña|Gloss=high
+7	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 08
+# text_amh = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ ቡድን ከቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን ተጠቅሞ የኡበር ተወካዮችን፣ የአሜሪካ ሞሽን ፎቶግራፍ ማህበር፣ የሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር።
+# text_ipa = bet'ik'imiti weri mejemerīya layi yeshigigiru budini ketēkinolojī lobīsitochi gari lemegenanyeti temesasayi botani tet'ek'imo ye'uberi tewekayochini, ye'āmērīka moshini photogirafi mahiberi, yeshemachochi tēkinolojī mahiberi ina lēlochi budinochini bemegabezi neberi             
+# text_en = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
+# language = Amharic 
+1	በጥቅምት	በጥቅምት	ADP	_	_	2	case	_	Transliteration=bä-ṭɨk’ɨmt|Gloss=in.October
+2	ወር	ወር	NOUN	_	_	5	nmod	_	Transliteration=wǝr|Gloss=month
+3	መጀመሪያ	መጀመሪያ	NOUN	_	_	5	amod	_	Transliteration=mäjämmɛriya|Gloss=beginning
+4	ላይ	ላይ	ADP	_	_	5	case	_	Transliteration=lay|Gloss=on
+5	የሽግግሩ	የሽግግሩ	ADJ	_	_	7	amod	_	Transliteration=yä-šɨggɨrü|Gloss=of.transfer
+6	የ	የ	GEN	_	_	7	case	_	Transliteration=yä|Gloss=of
+7	ሽግግር	ሽግግር	NOUN	_	_	9	nmod	_	Transliteration=šɨggɨr|Gloss=transfer
+8	ኡ	ኡ	DET	_	_	9	det	_	Transliteration=ʔu|Gloss=the
+9	ቡድን	ቡድን	NOUN	_	_	13	subj	_	Transliteration=bɨdɨn|Gloss=group
+10	ከቴክኖሎጂ	ከቴክኖሎጂ	ADP	_	_	11	case	_	Transliteration=kä-tɛk’nɔlɔdʒi|Gloss=from.technology
+11	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	13	nmod	_	Transliteration=tɛk’nɔlɔdʒi|Gloss=technology
+12	ሎቢስቶች	ሎቢስቶች	NOUN	_	_	13	nmod	_	Transliteration=lobiɨstɔč|Gloss=lobbyists
+13	ጋር	ጋር	ADP	_	_	14	case	_	Transliteration=gär|Gloss=with
+14	ለመገናኘት	ለመገናኘት	VERB	_	_	16	acl	_	Transliteration=lä-mɨgänayɛt|Gloss=to-meet
+15	ተመሳሳይ	ተመሳሳይ	ADJ	_	_	17	amod	_	Transliteration=tä-mɛsä-säy|Gloss=similar
+16	ቦታን	ቦታን	NOUN	_	_	18	obj	_	Transliteration=botañ|Gloss=place
+17	የኡበር	የኡበር	ADJ	_	_	19	amod	_	Transliteration=yä-ʔubär|Gloss=of.Uber
+18	የ	የ	GEN	_	_	19	case	_	Transliteration=yä|Gloss=of
+19	ኡበር	ኡበር	NOUN	_	_	21	nmod	_	Transliteration=ʔubär|Gloss=Uber
+20	ተወካዮችን	ተወካዮችን	NOUN	_	_	21	obj	_	Transliteration=tä-wǝk’ayočɨn|Gloss=representatives
+21	የአሜሪካ	የአሜሪካ	ADJ	_	_	23	amod	_	Transliteration=yä-amerika|Gloss=of.American
+22	የ	የ	GEN	_	_	23	case	_	Transliteration=yä|Gloss=of
+23	አሜሪካ	አሜሪካ	NOUN	_	_	25	nmod	_	Transliteration=amerika|Gloss=America
+24	ሞሽን	ሞሽን	NOUN	_	_	25	nmod	_	Transliteration=mɔʃɨn|Gloss=Motion
+25	ፎቶግራፍ	ፎቶግራፍ	NOUN	_	_	27	nmod	_	Transliteration=fotoɡräf|Gloss=photograph
+26	ማህበር	ማህበር	NOUN	_	_	27	nmod	_	Transliteration=mähbär|Gloss=Association
+27	የሸማቾች	የሸማቾች	ADJ	_	_	29	amod	_	Transliteration=yä-šämäṭšoč|Gloss=of.Consumer
+28	የ	የ	GEN	_	_	29	case	_	Transliteration=yä|Gloss=of
+29	ሸማቾች	ሸማቾች	NOUN	_	_	31	nmod	_	Transliteration=šämäṭšoč|Gloss=Consumer
+30	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	31	nmod	_	Transliteration=tɛk’nɔlɔdʒi|Gloss=technology
+31	ማህበር	ማህበር	NOUN	_	_	32	compound	_	Transliteration=mähbär|Gloss=Association
+32	እና	እና	CCONJ	_	_	34	cc	_	Transliteration=ɨnna|Gloss=and
+33	ሌሎች	ሌሎች	ADJ	_	_	34	amod	_	Transliteration=lɨloč|Gloss=other
+34	ቡድኖችን	ቡድኖችን	NOUN	_	_	36	obj	_	Transliteration=bɨdɨnočɨn|Gloss=groups
+35	በመጋበዝ	በመጋበዝ	VERB	_	_	37	acl	_	Transliteration=bä-mɨgābäz|Gloss=inviting
+36	ነበር	ነበር	AUX	_	_	0	root	_	Transliteration=nɛbär|Gloss=was
+37	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 09
+# text_amh = ስብሰባው በመጀመሪያ የታቀደው ለዋሽንግተን የግል ሜትሮፖሊታን ክለብ ከጥቂት ብሎኮች ርቆ በሚገኘው ኤች ጎዳና ላይ ነው።
+# text_ipa = sibisebawi bemejemerīya yetak'edewi lewashinigiteni yegili mētiropolītani kilebi ket'ik'īti bilokochi rik'o bemīgenyewi ēchi godana layi newi             
+# text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
+# language = Amharic
+1	ስብሰባው	ስብሰባው	NOUN	_	_	2	subj	_	Transliteration=sɨbsɨbaʷ|Gloss=meeting
+2	በመጀመሪያ	በመጀመሪያ	ADP	_	_	3	obl	_	Transliteration=bä-mäjämmɛriya|Gloss=at.beginning
+3	የታቀደው	የታቀደው	ADJ	_	_	4	amod	_	Transliteration=yä-täqqädäw|Gloss=planned
+4	ለዋሽንግተን	ለዋሽንግተን	ADP	_	_	5	obl	_	Transliteration=lä-wäšɨngɨt’ɨn|Gloss=for.Washington
+5	የግል	የግል	ADJ	_	_	7	amod	_	Transliteration=yä-gɨl|Gloss=of.private
+6	የ	የ	GEN	_	_	7	case	_	Transliteration=yä|Gloss=of
+7	ግል	ግል	NOUN	_	_	9	amod	_	Transliteration=gɨl|Gloss=private
+8	ሜትሮፖሊታን	ሜትሮፖሊታን	NOUN	_	_	9	amod	_	Transliteration=mäṭɨrɔpɔlɨtæn|Gloss=Metropolitan
+9	ክለብ	ክለብ	NOUN	_	_	10	amod	_	Transliteration=kɨlɛb|Gloss=Club
+10	ከጥቂት	ከጥቂት	ADP	_	_	12	obl	_	Transliteration=kä-ṭɨk’ɨt|Gloss=from.few
+11	ጥቂት	ጥቂት	PRON	_	_	12	amod	_	Transliteration=ṭɨk’ɨt|Gloss=few
+12	ብሎኮች	ብሎኮች	NOUN	_	_	13	obj	_	Transliteration=bɨlok’ɔč|Gloss=blocks
+13	ርቆ	ርቆ	ADV	_	_	14	advmod	_	Transliteration=rɨk’ō|Gloss=away
+14	በሚገኘው	በሚገኘው	ADP	_	_	16	obl	_	Transliteration=bä-mɨgänayəw|Gloss=on.found
+15	ኤች	ኤች	NOUN	_	_	16	amod	_	Transliteration=ʔɛç|Gloss=H
+16	ጎዳና	ጎዳና	NOUN	_	_	18	amod	_	Transliteration=gɔdänā|Gloss=Street
+17	ላይ	ላይ	ADP	_	_	18	case	_	Transliteration=lay|Gloss=on
+18	ነው	ነው	AUX	_	_	0	root	_	Transliteration=nɛw|Gloss=is
+19	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+
+# sent_id = 10
+# text_amh = ምናልባት የአለባበስ ኮድ በጣም የተጨናነቀ ነበር።
+# text_ipa = minalibati ye'ālebabesi kodi bet'ami yetech'enanek'e neberi             
+# text_en = Maybe the dress code was too stuffy.
+# language = Amharic
+1	ምናልባት	ምናልባት	ADV	_	_	2	advmod	_	Transliteration=mɨnälbat|Gloss=Maybe
+2	የአለባበስ	የአለባበስ	ADJ	_	_	3	amod	_	Transliteration=yä-äläbäbäs|Gloss=dressing
+3	ኮድ	ኮድ	NOUN	_	_	4	amod	_	Transliteration=k’od|Gloss=code
+4	በጣም	በጣም	ADV	_	_	5	advmod	_	Transliteration=bäṭ’ām|Gloss=very
+5	የተጨናነቀ	የተጨናነቀ	ADJ	_	_	6	amod	_	Transliteration=yä-ṭ’äñanäqä|Gloss=crowded
+6	ነበር	ነበር	AUX	_	_	0	root	_	Transliteration=näbär|Gloss=was
+7	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
