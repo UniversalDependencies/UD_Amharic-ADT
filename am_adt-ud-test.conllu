@@ -1,11 +1,11 @@
 # Student = Dawit Jembere
 # Language = amh (Amharic, Ethiopian Semitic language), eng (English)
-# Description = 
+# Description =
 # For each sentence: "#sent_id", "#text_amh", "#text_en"
 # For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment
 # sent_id = 01
 # text_amh = አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
-# text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal             
+# text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 # language = Amharic
 1	“	“	PUNCT	_	_	10	punct	_	Transliteration=“|Gloss=“
@@ -43,7 +43,7 @@
 
 # sent_id = 02
 # text_amh = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
-# text_ipa = bekapītoli hīli layi yemahiberawī mīdīya shigigirochini lemīketelu, yihi tinishi yeteleye yihonali             
+# text_ipa = bekapītoli hīli layi yemahiberawī mīdīya shigigirochini lemīketelu, yihi tinishi yeteleye yihonali
 # text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
 # language = Amharic
 1	በ	በ	ADP	_	_	2	case	_	Transliteration=be|Gloss=in
@@ -63,7 +63,7 @@
 
 # sent_id = 03
 # text_amh = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ በ"ብቃት ስርዓት" ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
-# text_ipa = negeri gini īmīgirēshinini silemegedebi kalefewi nigigiru irefiti layi, yejī'opī teshwamīwi inide pirēzidenitinetu be"bik'ati siri'ati" layi bememesireti higawī sidetenyochini “ijigi bet'ami bizu” inidemīfek'idi āsitawik'wali.             
+# text_ipa = negeri gini īmīgirēshinini silemegedebi kalefewi nigigiru irefiti layi, yejī'opī teshwamīwi inide pirēzidenitinetu be"bik'ati siri'ati" layi bememesireti higawī sidetenyochini “ijigi bet'ami bizu” inidemīfek'idi āsitawik'wali.
 # text_en = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
 # language = Amharic
 1	ነገር	ነገር	NOUN	_	_	17	nsubj	_	Transliteration=nägär|Gloss=however
@@ -94,7 +94,7 @@
 
 # sent_id = 04
 # text_amh = በሰሜን ካሮላይና ዩኒቨርስቲ በስፖርት ሜዳ ለተሰበሰበው ህዝብ "ስለዚህ ትንሽ ጫና ማድረግ እጠላለሁ፣ የሪፐብሊኩ እጣ ፈንታ ግን በትከሻችሁ ላይ ነው" ብሏል።
-# text_ipa = besemēni karolayina yunīverisitī besiporiti mēda letesebesebewi hizibi "silezīhi tinishi ch'ana madiregi it'elalehu, yerīpebilīku it'a fenita gini betikeshachihu layi newi" bilwali             
+# text_ipa = besemēni karolayina yunīverisitī besiporiti mēda letesebesebewi hizibi "silezīhi tinishi ch'ana madiregi it'elalehu, yerīpebilīku it'a fenita gini betikeshachihu layi newi" bilwali
 # text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
 # language = Amharic
 1	በ	በ	ADP	_	_	4	case	_	Transliteration=bä|Gloss=in
@@ -131,7 +131,7 @@
 
 # sent_id = 05
 # text_amh = አዲሱ ወጪ በክሊንተን ትልቅ የባንክ አካውንት ነው የተቀጣጠለው።
-# text_ipa = ādīsu wech'ī bekilīniteni tilik'i yebaniki ākawiniti newi yetek'et'at'elewi             
+# text_ipa = ādīsu wech'ī bekilīniteni tilik'i yebaniki ākawiniti newi yetek'et'at'elewi
 # text_en = The new spending is fueled by Clinton’s large bank account.
 # language = Amharic
 1	አዲሱ	አዲሱ	ADJ	_	_	2	amod	_	Transliteration=adisu|Gloss=new
@@ -148,7 +148,7 @@
 
 # sent_id = 06
 # text_amh = የምትናገረው እና የምትሰራው እሱ በእውነቱ የማይታመን ነው።
-# text_ipa = yemitinagerewi ina yemitiserawi, isu - be'iwinetu, yemayitameni newi             
+# text_ipa = yemitinagerewi ina yemitiserawi, isu - be'iwinetu, yemayitameni newi
 # text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
 # language = Amharic
 1	የምትናገረው	የምትናገረው	VERB	_	_	2	acl	_	Transliteration=yä-mǝtǝnaggäräwǝ|Gloss=what.you.say
@@ -162,7 +162,7 @@
 
 # sent_id = 07
 # text_amh = በአንድ ሰው 5,000 ዶላር፣ የሚፈቀደው ከፍተኛ።
-# text_ipa = be'ānidi sewi 5,000 dolari, yemīfek'edewi kefitenya             
+# text_ipa = be'ānidi sewi 5,000 dolari, yemīfek'edewi kefitenya
 # text_en = $5,000 per person, the maximum allowed.
 # language = Amharic
 1	በአንድ	በአንድ	ADP	_	_	2	case	_	Transliteration=bä-and|Gloss=per.one
@@ -175,9 +175,9 @@
 
 # sent_id = 08
 # text_amh = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ ቡድን ከቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን ተጠቅሞ የኡበር ተወካዮችን፣ የአሜሪካ ሞሽን ፎቶግራፍ ማህበር፣ የሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር።
-# text_ipa = bet'ik'imiti weri mejemerīya layi yeshigigiru budini ketēkinolojī lobīsitochi gari lemegenanyeti temesasayi botani tet'ek'imo ye'uberi tewekayochini, ye'āmērīka moshini photogirafi mahiberi, yeshemachochi tēkinolojī mahiberi ina lēlochi budinochini bemegabezi neberi             
+# text_ipa = bet'ik'imiti weri mejemerīya layi yeshigigiru budini ketēkinolojī lobīsitochi gari lemegenanyeti temesasayi botani tet'ek'imo ye'uberi tewekayochini, ye'āmērīka moshini photogirafi mahiberi, yeshemachochi tēkinolojī mahiberi ina lēlochi budinochini bemegabezi neberi
 # text_en = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
-# language = Amharic 
+# language = Amharic
 1	በጥቅምት	በጥቅምት	ADP	_	_	2	case	_	Transliteration=bä-ṭɨk’ɨmt|Gloss=in.October
 2	ወር	ወር	NOUN	_	_	5	nmod	_	Transliteration=wǝr|Gloss=month
 3	መጀመሪያ	መጀመሪያ	NOUN	_	_	5	amod	_	Transliteration=mäjämmɛriya|Gloss=beginning
@@ -218,7 +218,7 @@
 
 # sent_id = 09
 # text_amh = ስብሰባው በመጀመሪያ የታቀደው ለዋሽንግተን የግል ሜትሮፖሊታን ክለብ ከጥቂት ብሎኮች ርቆ በሚገኘው ኤች ጎዳና ላይ ነው።
-# text_ipa = sibisebawi bemejemerīya yetak'edewi lewashinigiteni yegili mētiropolītani kilebi ket'ik'īti bilokochi rik'o bemīgenyewi ēchi godana layi newi             
+# text_ipa = sibisebawi bemejemerīya yetak'edewi lewashinigiteni yegili mētiropolītani kilebi ket'ik'īti bilokochi rik'o bemīgenyewi ēchi godana layi newi
 # text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
 # language = Amharic
 1	ስብሰባው	ስብሰባው	NOUN	_	_	2	subj	_	Transliteration=sɨbsɨbaʷ|Gloss=meeting
@@ -243,7 +243,7 @@
 
 # sent_id = 10
 # text_amh = ምናልባት የአለባበስ ኮድ በጣም የተጨናነቀ ነበር።
-# text_ipa = minalibati ye'ālebabesi kodi bet'ami yetech'enanek'e neberi             
+# text_ipa = minalibati ye'ālebabesi kodi bet'ami yetech'enanek'e neberi
 # text_en = Maybe the dress code was too stuffy.
 # language = Amharic
 1	ምናልባት	ምናልባት	ADV	_	_	2	advmod	_	Transliteration=mɨnälbat|Gloss=Maybe
@@ -253,3 +253,4 @@
 5	የተጨናነቀ	የተጨናነቀ	ADJ	_	_	6	amod	_	Transliteration=yä-ṭ’äñanäqä|Gloss=crowded
 6	ነበር	ነበር	AUX	_	_	0	root	_	Transliteration=näbär|Gloss=was
 7	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+
