@@ -16,7 +16,7 @@
 7	ዩናይትድ	ዩናይትድ	ADJ	_	_	8	amod	_	Gloss=united|LTranslit=junajətədə|Translit=junajətədə
 8	ስቴትስ	ስቴትስ	NOUN	_	_	9	obl	_	Gloss=states|LTranslit=sətetəsə|Translit=sətetəsə
 9	ታይቶ	ታይቶ	VERB	_	_	0	root	_	Gloss=seen|LTranslit=tajəto|Translit=tajəto
-10	ቢ	ቢ	AUX	_	_	9	aux	_	Gloss=if|LTranslit=bi|SpaceAfter=No|Translit=bi
+10	ቢ	ቢ	SCONJ	_	_	9	mark	_	Gloss=if|LTranslit=bi|SpaceAfter=No|Translit=bi
 11	ሆን	ሆን	VERB	_	_	9	ccomp	_	Gloss=be|LTranslit=honə|SpaceAfter=No|Translit=honə
 12	ም	ም	SCONJ	_	_	9	mark	_	Gloss=(conditional marker)|LTranslit=mə|SpaceAfter=No|Translit=mə
 13	፣	፣	PUNCT	_	_	9	punct	_	Gloss=,|LTranslit=,|Translit=,
@@ -58,7 +58,7 @@
 9	ሚከተሉ	ሚከተ	VERB	_	_	10	acl:relcl	_	Gloss=following|LTranslit=mikätä|Translit=mikätälu
 10	ይህ	ይህ	PRON	_	_	12	nsubj	_	Gloss=this|LTranslit=jəhə|Translit=jəhə
 11	ትንሽ	ትንሽ	ADJ	_	_	12	amod	_	Gloss=little|LTranslit=tənəšə|Translit=tənəšə
-12	የተለየ	የተለየ	ADJ	_	_	13	cop	_	Gloss=special|LTranslit=jätäläjä|Translit=jätäläjä
+12	የተለየ	የተለየ	ADJ	_	_	13	xcomp	_	Gloss=special|LTranslit=jätäläjä|Translit=jätäläjä
 13	ይሆናል	ይሆናል	VERB	_	_	0	root	_	Gloss=will be|LTranslit=jəhonalə|SpaceAfter=No|Translit=jəhonalə
 14	።	።	PUNCT	_	_	13	punct	_	Gloss=.|LTranslit=.|Translit=.
 
