@@ -86,7 +86,7 @@
 16	ስርዓት	ስርዓት	NOUN	_	_	19	obl	_	Gloss=system|LTranslit=sərə`atə|SpaceAfter=No|Translit=sərə`atə
 17	”	”	PUNCT	_	_	16	punct	_	Gloss=”|LTranslit=”|Translit=“
 18	ላይ	ላይ	ADP	_	_	16	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
-19	በመመስረት	መመስረት	VERB	_	_	27	root	_	Gloss=based on|LTranslit=mämäsərätə|Translit=bämämäsərätə
+19	በመመስረት	መመስረት	VERB	_	_	27	advcl	_	Gloss=based on|LTranslit=mämäsərätə|Translit=bämämäsərätə
 20	ህጋዊ	ህጋዊ	ADJ	_	_	21	amod	_	Gloss=legal|LTranslit=həgawi|Translit=həgawi
 21	ስደተኞችን	ስደተኞች	NOUN	_	_	27	obj	_	Gloss=refugees|LTranslit=sədätäňočə|Translit=sədätäňočənə
 22	“	“	PUNCT	_	_	25	punct	_	Gloss=“|LTranslit=“|SpaceAfter=No|Translit=“
@@ -95,7 +95,7 @@
 25	ብዙ	ብዙ	ADJ	_	_	21	amod	_	Gloss=many|LTranslit=bəzu|SpaceAfter=No|Translit=bəzu
 26	”	”	PUNCT	_	_	25	punct	_	Gloss=”|LTranslit=”|Translit=“
 27	እንደሚፈቅድ	እንደሚፈቅድ	VERB	_	_	28	ccomp	_	Gloss=would allow|LTranslit='ənədämifäqədə|Translit='ənədämifäqədə
-28	አስታውቋል	አስታውቋል	VERB	_	_	0	root	_	Gloss=indicated|LTranslit='äsətawəqwalə|Translit='äsətawəqwalə
+28	አስታውቋል	አስታውቋል	VERB	_	_	0	root	_	Gloss=indicated|LTranslit='äsətawəqwalə|SpaceAfter=No|Translit='äsətawəqwalə
 29	።	።	PUNCT	_	_	28	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 04
@@ -105,9 +105,9 @@
 # text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
 # language = Amharic
 1	በ	በ	ADP	_	_	4	case	_	Gloss=in|LTranslit=bä|Translit=bä
-2	ሰሜን	ሰሜን	ADJ	_	_	4	amod	_	Gloss=North|LTranslit=sämenə|Translit=sämenə
+2	ሰሜን	ሰሜን	ADJ	_	_	3	amod	_	Gloss=North|LTranslit=sämenə|Translit=sämenə
 3	ካሮላይና	ካሮላይና	PROPN	_	_	4	compound	_	Gloss=Carolina|LTranslit=karolajəna|Translit=karolajəna
-4	ዩኒቨርስቲ	ዩኒቨርስቲ	NOUN	_	_	0	root	_	Gloss=University|LTranslit=junivärəsəti|Translit=junivärəsəti
+4	ዩኒቨርስቲ	ዩኒቨርስቲ	NOUN	_	_	9	obl	_	Gloss=University|LTranslit=junivärəsəti|Translit=junivärəsəti
 5	በ	በ	ADP	_	_	7	case	_	Gloss=in|LTranslit=bä|Translit=bä
 6	ስፖርት	ስፖርት	NOUN	_	_	7	compound	_	Gloss=sport|LTranslit=səporətə|Translit=səporətə
 7	ሜዳ	ሜዳ	NOUN	_	_	4	nmod	_	Gloss=field|LTranslit=meda|Translit=meda
@@ -143,16 +143,16 @@
 # text_en = The new spending is fueled by Clinton’s large bank account.
 # language = Amharic
 1	አዲሱ	አዲሱ	ADJ	_	_	2	amod	_	Gloss=new|LTranslit='ädisu|Translit='ädisu
-2	ወጪ	ወጪ	NOUN	_	_	0	root	_	Gloss=spending|LTranslit=wäći|Translit=wäći
-3	በ	በ	ADP	_	_	4	case	_	Gloss=by|LTranslit=bä|SpaceAfter=No|Translit=bä
-4	ክሊንተን	ክሊንተን	PROPN	_	_	2	nmod	_	Gloss=Clinton|LTranslit=kəlinətänə|Translit=kəlinətänə
+2	ወጪ	ወጪ	NOUN	_	_	10	nsubj	_	Gloss=spending|LTranslit=wäći|Translit=wäći
+3	በ	በ	ADP	_	_	8	case	_	Gloss=by|LTranslit=bä|SpaceAfter=No|Translit=bä
+4	ክሊንተን	ክሊንተን	PROPN	_	_	8	nmod	_	Gloss=Clinton|LTranslit=kəlinətänə|Translit=kəlinətänə
 5	ትልቅ	ትልቅ	ADJ	_	_	8	amod	_	Gloss=large|LTranslit=tələqə|Translit=tələqə
 6	የ	የ	ADP	_	_	8	case	_	Gloss=of|LTranslit=jä|SpaceAfter=No|Translit=jä
 7	ባንክ	ባንክ	NOUN	_	_	8	compound	_	Gloss=bank|LTranslit=banəkə|Translit=banəkə
-8	አካውንት	አካውንት	NOUN	_	_	2	nmod	_	Gloss=account|LTranslit='äkawənətə|Translit='äkawənətə
-9	ነው	ነው	AUX	_	_	2	cop	_	Gloss=is|LTranslit=näwə|Translit=näwə
-10	የተቀጣጠለው	የተቀጣጠለው	VERB	_	_	9	acl	_	Gloss=linked|LTranslit=jätäqäţaţäläwə|SpaceAfter=No|Translit=jätäqäţaţäläwə
-11	።	።	PUNCT	_	_	2	punct	_	Gloss=.|LTranslit=.|Translit=.
+8	አካውንት	አካውንት	NOUN	_	_	10	obl	_	Gloss=account|LTranslit='äkawənətə|Translit='äkawənətə
+9	ነው	ነው	AUX	_	_	10	aux	_	Gloss=is|LTranslit=näwə|Translit=näwə
+10	የተቀጣጠለው	የተቀጣጠለው	VERB	_	_	0	root	_	Gloss=linked|LTranslit=jätäqäţaţäläwə|SpaceAfter=No|Translit=jätäqäţaţäläwə
+11	።	።	PUNCT	_	_	10	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 06
 # text = የምትናገረው እና የምትሰራው እሱ በእውነቱ የማይታመን ነው።
