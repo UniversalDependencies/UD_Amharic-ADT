@@ -147,7 +147,7 @@
 11	።	።	PUNCT	_	_	2	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 06
-# text_amh = የምትናገረው እና የምትሰራው እሱ በእውነቱ የማይታመን ነው።
+# text = የምትናገረው እና የምትሰራው እሱ በእውነቱ የማይታመን ነው።
 # text_ipa = yemitinagerewi ina yemitiserawi, isu - be'iwinetu, yemayitameni newi
 # text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
 # language = Amharic
@@ -166,12 +166,12 @@
 # text_en = $5,000 per person, the maximum allowed.
 # language = Amharic
 1	በአንድ	በአንድ	ADP	_	_	2	case	_	Transliteration=bä-and|Gloss=per.one
-2	ሰው	ሰው	NOUN	_	_	5	nmod	_	Transliteration=säw|Gloss=person
-3	5,000	5,000	NUM	_	_	5	nummod	_	Transliteration=5,000|Gloss=5000
-4	ዶላር	ዶላር	NOUN	_	_	5	compound	_	Transliteration=dolar|Gloss=dollars
-5	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	7	amod	_	Transliteration=yä-mifäqqädäw|Gloss=allowed
-6	ከፍተኛ	ከፍተኛ	ADJ	_	_	7	amod	_	Transliteration=käfätäñña|Gloss=high
-7	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+2	ሰው	ሰው	NOUN	_	_	4	nmod	_	Transliteration=säw|Gloss=person
+3	5,000	5,000	NUM	_	_	4	nummod	_	Transliteration=5,000|Gloss=5000
+4	ዶላር	ዶላር	NOUN	_	_	0	root	_	Transliteration=dolar|Gloss=dollars
+5	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	6	amod	_	Transliteration=yä-mifäqqädäw|Gloss=allowed
+6	ከፍተኛ	ከፍተኛ	ADJ	_	_	3	appos	_	Transliteration=käfätäñña|Gloss=high
+7	።	።	PUNCT	_	_	4	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 08
 # text_amh = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ ቡድን ከቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን ተጠቅሞ የኡበር ተወካዮችን፣ የአሜሪካ ሞሽን ፎቶግራፍ ማህበር፣ የሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር።
