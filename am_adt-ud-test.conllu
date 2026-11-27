@@ -8,38 +8,38 @@
 # text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 # language = Amharic
-1	“	“	PUNCT	_	_	10	punct	_	Transliteration=“|Gloss=“
+1	“	“	PUNCT	_	_	9	punct	_	Transliteration=“|Gloss=“
 2	አብዛኛው	አብዛኛ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	5	amod	_	Transliteration=ʾabzāñyaw|Gloss=majority
-3	የ	የ	ADP	_	_	4	case	_	Transliteration=ye|Gloss=of
-4	ዲጂታል	ዲጂታል	ADJ	_	_	4	amod	_	Transliteration=dijīṭāl|Gloss=digital
-5	ሽግግር	ሽግግር	NOUN	_	_	5	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
-6	በ	በ	ADP	_	_	7	case	_	Transliteration=be|Gloss=in
-7	ዩናይትድ	ዩናይትድ	ADJ	_	_	7	amod	_	Transliteration=yunāyṭǝd|Gloss=united
-8	ስቴትስ	ስቴትስ	NOUN	_	_	8	obl	_	Transliteration=sǝṭeyṭes|Gloss=states
+3	የ	የ	ADP	_	_	5	case	_	Transliteration=ye|Gloss=of
+4	ዲጂታል	ዲጂታል	ADJ	_	_	5	amod	_	Transliteration=dijīṭāl|Gloss=digital
+5	ሽግግር	ሽግግር	NOUN	_	_	9	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
+6	በ	በ	ADP	_	_	8	case	_	Transliteration=be|Gloss=in
+7	ዩናይትድ	ዩናይትድ	ADJ	_	_	8	amod	_	Transliteration=yunāyṭǝd|Gloss=united
+8	ስቴትስ	ስቴትስ	NOUN	_	_	9	obl	_	Transliteration=sǝṭeyṭes|Gloss=states
 9	ታይቶ	ታይቶ	VERB	_	_	0	root	_	Transliteration=tāyto|Gloss=seen
-10	ቢ	ቢ	AUX	_	_	10	aux	_	Transliteration=bi|Gloss=if
-11	ሆን	ሆን	VERB	_	_	8	ccomp	_	Transliteration=hon|Gloss=be
-12	ም	ም	SCONJ	_	_	10	mark	_	Transliteration=mǝ|Gloss=(conditional marker)
-13	ሰላማዊው	ሰላማዊ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	14	amod	_	Transliteration=salāmawīw|Gloss=peaceful
-14	የ	የ	ADP	_	_	14	case	_	Transliteration=ye|Gloss=of
-15	ስልጣን	ስልጣን	NOUN	_	_	15	nsubj	_	Transliteration=sǝlṭān|Gloss=power
-16	ሽግግር	ሽግግር	NOUN	_	_	17	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
-17	ግን	ግን	CCONJ	_	_	17	cc	_	Transliteration=gǝn|Gloss=but
-18	አይደለም	አይደለም	VERB	_	_	8	conj	_	Transliteration=ʾāydǝlǝm|Gloss=not
-19	”	”	PUNCT	_	_	8	punct	_	Transliteration="|Gloss="
-20	ሲሉ	ሲሉ	VERB	_	_	8	parataxis	_	Transliteration=sīlu|Gloss=saying
+10	ቢ	ቢ	AUX	_	_	9	aux	_	Transliteration=bi|Gloss=if
+11	ሆን	ሆን	VERB	_	_	9	ccomp	_	Transliteration=hon|Gloss=be
+12	ም	ም	SCONJ	_	_	9	mark	_	Transliteration=mǝ|Gloss=(conditional marker)
+13	ሰላማዊው	ሰላማዊ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	16	amod	_	Transliteration=salāmawīw|Gloss=peaceful
+14	የ	የ	ADP	_	_	15	case	_	Transliteration=ye|Gloss=of
+15	ስልጣን	ስልጣን	NOUN	_	_	16	nsubj	_	Transliteration=sǝlṭān|Gloss=power
+16	ሽግግር	ሽግግር	NOUN	_	_	18	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
+17	ግን	ግን	CCONJ	_	_	18	cc	_	Transliteration=gǝn|Gloss=but
+18	አይደለም	አይደለም	VERB	_	_	9	conj	_	Transliteration=ʾāydǝlǝm|Gloss=not
+19	”	”	PUNCT	_	_	9	punct	_	Transliteration="|Gloss="
+20	ሲሉ	ሲሉ	VERB	_	_	9	parataxis	_	Transliteration=sīlu|Gloss=saying
 21	የ	የ	ADP	_	_	22	case	_	Transliteration=ye|Gloss=of
-22	ኦባማ	ኦባማ	PROPN	_	_	22	compound	_	Transliteration=ʾobāmā|Gloss=Obama
-23	ልዩ	ልዩ	ADJ	_	_	23	amod	_	Transliteration=lǝyyu|Gloss=special
-24	ረዳት	ረዳት	NOUN	_	_	24	nsubj	_	Transliteration=rǝdāt|Gloss=assistant
-25	የሆኑት	ሆኑ	VERB	_	_	23	acl:relcl	_	Transliteration=yehonut|Gloss=who is
+22	ኦባማ	ኦባማ	PROPN	_	_	24	compound	_	Transliteration=ʾobāmā|Gloss=Obama
+23	ልዩ	ልዩ	ADJ	_	_	24	amod	_	Transliteration=lǝyyu|Gloss=special
+24	ረዳት	ረዳት	NOUN	_	_	20	nsubj	_	Transliteration=rǝdāt|Gloss=assistant
+25	የሆኑት	ሆኑ	VERB	_	_	24	acl:relcl	_	Transliteration=yehonut|Gloss=who is
 26	ኮሪ	ኮሪ	PROPN	_	_	24	flat	_	Transliteration=korī|Gloss=Kori
 27	ሹልማን	ሹልማን	PROPN	_	_	25	flat	_	Transliteration=šulman|Gloss=Schulman
-28	ሰኞ	ሰኞ	NOUN	_	_	24	obl	_	Transliteration=sanǝňňo|Gloss=Monday
+28	ሰኞ	ሰኞ	NOUN	_	_	31	obl	_	Transliteration=sanǝňňo|Gloss=Monday
 29	በ	በ	ADP	_	_	30	case	_	Transliteration=be|Gloss=in
-30	ብሎግ	ብሎግ	NOUN	_	_	30	obl	_	Transliteration=bǝlog|Gloss=blog
-31	ፅፈዋል	ፅፈዋል	VERB	_	_	24	ccomp	_	Transliteration=ṣǝfewāl|Gloss=wrote
-32	።	።	PUNCT	_	_	8	punct	_	Transliteration="|Gloss=.
+30	ብሎግ	ብሎግ	NOUN	_	_	31	obl	_	Transliteration=bǝlog|Gloss=blog
+31	ፅፈዋል	ፅፈዋል	VERB	_	_	20	ccomp	_	Transliteration=ṣǝfewāl|Gloss=wrote
+32	።	።	PUNCT	_	_	9	punct	_	Transliteration="|Gloss=.
 
 # sent_id = 02
 # text_amh = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
