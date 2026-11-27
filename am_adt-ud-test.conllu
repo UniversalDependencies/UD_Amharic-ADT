@@ -1,8 +1,6 @@
 # Student = Dawit Jembere
 # Language = amh (Amharic, Ethiopian Semitic language), eng (English)
 # Description =
-# For each sentence: "#sent_id", "#text_amh", "#text_en"
-# For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment
 # sent_id = 01
 # text = “አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
 # translit = “'äbəzaňawə jädidžitalə šəgəgərə bäjunajətədə sətetəsə tajəto bihonəmə, sälamawiwə jäsələţanə šəgəgərə gənə 'äjədälämə” silu jä'obama ləju rädatə jähonutə kori šuləmanə säňo bäbəlogə dzəfäwalə.
@@ -21,26 +19,27 @@
 10	ቢ	ቢ	AUX	_	_	9	aux	_	Gloss=if|LTranslit=bi|SpaceAfter=No|Translit=bi
 11	ሆን	ሆን	VERB	_	_	9	ccomp	_	Gloss=be|LTranslit=honə|SpaceAfter=No|Translit=honə
 12	ም	ም	SCONJ	_	_	9	mark	_	Gloss=(conditional marker)|LTranslit=mə|SpaceAfter=No|Translit=mə
-13	ሰላማዊው	ሰላማዊ	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	Gloss=peaceful|LTranslit=sälamawi|Translit=sälamawiwə
-14	የ	የ	ADP	_	_	15	case	_	Gloss=of|LTranslit=jä|Translit=jä
-15	ስልጣን	ስልጣን	NOUN	_	_	16	nsubj	_	Gloss=power|LTranslit=sələţanə|Translit=sələţanə
-16	ሽግግር	ሽግግር	NOUN	_	_	18	nsubj	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
-17	ግን	ግን	CCONJ	_	_	18	cc	_	Gloss=but|LTranslit=gənə|Translit=gənə
-18	አይደለም	አይደለም	VERB	_	_	9	conj	_	Gloss=not|LTranslit='äjədälämə|Translit='äjədälämə
-19	”	”	PUNCT	_	_	9	punct	_	Gloss="|LTranslit=”|Translit=”
-20	ሲሉ	ሲሉ	VERB	_	_	9	parataxis	_	Gloss=saying|LTranslit=silu|Translit=silu
-21	የ	የ	ADP	_	_	22	case	_	Gloss=of|LTranslit=jä|Translit=jä
-22	ኦባማ	ኦባማ	PROPN	_	_	24	compound	_	Gloss=Obama|LTranslit='obama|Translit='obama
-23	ልዩ	ልዩ	ADJ	_	_	24	amod	_	Gloss=special|LTranslit=ləju|Translit=ləju
-24	ረዳት	ረዳት	NOUN	_	_	20	nsubj	_	Gloss=assistant|LTranslit=rädatə|Translit=rädatə
-25	የሆኑት	ሆኑ	VERB	_	_	24	acl:relcl	_	Gloss=who is|LTranslit=honu|Translit=jähonutə
-26	ኮሪ	ኮሪ	PROPN	_	_	24	flat	_	Gloss=Kori|LTranslit=kori|Translit=kori
-27	ሹልማን	ሹልማን	PROPN	_	_	25	flat	_	Gloss=Schulman|LTranslit=šuləmanə|Translit=šuləmanə
-28	ሰኞ	ሰኞ	NOUN	_	_	31	obl	_	Gloss=Monday|LTranslit=säňo|Translit=säňo
-29	በ	በ	ADP	_	_	30	case	_	Gloss=in|LTranslit=bä|Translit=bä
-30	ብሎግ	ብሎግ	NOUN	_	_	31	obl	_	Gloss=blog|LTranslit=bəlogə|Translit=bəlogə
-31	ፅፈዋል	ፅፈዋል	VERB	_	_	20	ccomp	_	Gloss=wrote|LTranslit=dzəfäwalə|Translit=dzəfäwalə
-32	።	።	PUNCT	_	_	9	punct	_	Gloss=.|LTranslit=.|Translit=.
+13	፣	፣	PUNCT	_	_	9	punct	_	Gloss=,|LTranslit=,|Translit=,
+14	ሰላማዊው	ሰላማዊ	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	Gloss=peaceful|LTranslit=sälamawi|Translit=sälamawiwə
+15	የ	የ	ADP	_	_	16	case	_	Gloss=of|LTranslit=jä|Translit=jä
+16	ስልጣን	ስልጣን	NOUN	_	_	17	nsubj	_	Gloss=power|LTranslit=sələţanə|Translit=sələţanə
+17	ሽግግር	ሽግግር	NOUN	_	_	19	nsubj	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
+18	ግን	ግን	CCONJ	_	_	19	cc	_	Gloss=but|LTranslit=gənə|Translit=gənə
+19	አይደለም	አይደለም	VERB	_	_	9	conj	_	Gloss=not|LTranslit='äjədälämə|Translit='äjədälämə
+20	”	”	PUNCT	_	_	9	punct	_	Gloss="|LTranslit=”|Translit=”
+21	ሲሉ	ሲሉ	VERB	_	_	9	parataxis	_	Gloss=saying|LTranslit=silu|Translit=silu
+22	የ	የ	ADP	_	_	23	case	_	Gloss=of|LTranslit=jä|Translit=jä
+23	ኦባማ	ኦባማ	PROPN	_	_	25	compound	_	Gloss=Obama|LTranslit='obama|Translit='obama
+24	ልዩ	ልዩ	ADJ	_	_	25	amod	_	Gloss=special|LTranslit=ləju|Translit=ləju
+25	ረዳት	ረዳት	NOUN	_	_	21	nsubj	_	Gloss=assistant|LTranslit=rädatə|Translit=rädatə
+26	የሆኑት	ሆኑ	VERB	_	_	25	acl:relcl	_	Gloss=who is|LTranslit=honu|Translit=jähonutə
+27	ኮሪ	ኮሪ	PROPN	_	_	25	flat	_	Gloss=Kori|LTranslit=kori|Translit=kori
+28	ሹልማን	ሹልማን	PROPN	_	_	26	flat	_	Gloss=Schulman|LTranslit=šuləmanə|Translit=šuləmanə
+29	ሰኞ	ሰኞ	NOUN	_	_	32	obl	_	Gloss=Monday|LTranslit=säňo|Translit=säňo
+30	በ	በ	ADP	_	_	31	case	_	Gloss=in|LTranslit=bä|Translit=bä
+31	ብሎግ	ብሎግ	NOUN	_	_	32	obl	_	Gloss=blog|LTranslit=bəlogə|Translit=bəlogə
+32	ፅፈዋል	ፅፈዋል	VERB	_	_	21	ccomp	_	Gloss=wrote|LTranslit=dzəfäwalə|Translit=dzəfäwalə
+33	።	።	PUNCT	_	_	9	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 02
 # text = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
