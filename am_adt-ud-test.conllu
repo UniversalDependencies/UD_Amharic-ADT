@@ -4,7 +4,7 @@
 # For each sentence: "#sent_id", "#text_amh", "#text_en"
 # For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment
 # sent_id = 01
-# text_amh = አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
+# text = አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
 # text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 # language = Amharic
@@ -42,7 +42,7 @@
 32	።	።	PUNCT	_	_	9	punct	_	Transliteration="|Gloss=.
 
 # sent_id = 02
-# text_amh = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
+# text = በካፒቶል ሂል የማህበራዊ ሚዲያ ሽግግሮችን ለሚከተሉ ይህ ትንሽ የተለየ ይሆናል።
 # text_ipa = bekapītoli hīli layi yemahiberawī mīdīya shigigirochini lemīketelu, yihi tinishi yeteleye yihonali
 # text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
 # language = Amharic
@@ -62,7 +62,7 @@
 14	።	።	PUNCT	_	_	13	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 03
-# text_amh = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ በ"ብቃት ስርዓት" ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
+# text = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ በ"ብቃት ስርዓት" ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
 # text_ipa = negeri gini īmīgirēshinini silemegedebi kalefewi nigigiru irefiti layi, yejī'opī teshwamīwi inide pirēzidenitinetu be"bik'ati siri'ati" layi bememesireti higawī sidetenyochini “ijigi bet'ami bizu” inidemīfek'idi āsitawik'wali.
 # text_en = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
 # language = Amharic
@@ -130,7 +130,7 @@
 31	።	።	PUNCT	_	_	30	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 05
-# text_amh = አዲሱ ወጪ በክሊንተን ትልቅ የባንክ አካውንት ነው የተቀጣጠለው።
+# text = አዲሱ ወጪ በክሊንተን ትልቅ የባንክ አካውንት ነው የተቀጣጠለው።
 # text_ipa = ādīsu wech'ī bekilīniteni tilik'i yebaniki ākawiniti newi yetek'et'at'elewi
 # text_en = The new spending is fueled by Clinton’s large bank account.
 # language = Amharic
@@ -161,7 +161,7 @@
 8	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 07
-# text_amh = በአንድ ሰው 5,000 ዶላር፣ የሚፈቀደው ከፍተኛ።
+# text = በአንድ ሰው 5,000 ዶላር፣ የሚፈቀደው ከፍተኛ።
 # text_ipa = be'ānidi sewi 5,000 dolari, yemīfek'edewi kefitenya
 # text_en = $5,000 per person, the maximum allowed.
 # language = Amharic
