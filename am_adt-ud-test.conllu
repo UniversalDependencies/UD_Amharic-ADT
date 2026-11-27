@@ -195,10 +195,10 @@
 3	መጀመሪያ	መጀመሪያ	NOUN	_	_	5	amod	_	Gloss=beginning|LTranslit=mädžämärija|Translit=mädžämärija
 4	ላይ	ላይ	ADP	_	_	5	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
 5	የሽግግሩ	የሽግግሩ	ADJ	_	_	7	amod	_	Gloss=of.transfer|LTranslit=jäšəgəgəru|Translit=jäšəgəgəru
-6	የ	የ	GEN	_	_	7	case	_	Gloss=of|LTranslit=jä|Translit=jä
+6	የ	የ	ADP	_	_	7	case	_	Gloss=of|LTranslit=jä|Translit=jä
 7	ሽግግር	ሽግግር	NOUN	_	_	9	nmod	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
 8	ኡ	ኡ	DET	_	_	9	det	_	Gloss=the|LTranslit='u|Translit='u
-9	ቡድን	ቡድን	NOUN	_	_	13	subj	_	Gloss=group|LTranslit=budənə|Translit=budənə
+9	ቡድን	ቡድን	NOUN	_	_	13	nsubj	_	Gloss=group|LTranslit=budənə|Translit=budənə
 10	ከቴክኖሎጂ	ከቴክኖሎጂ	ADP	_	_	11	case	_	Gloss=from.technology|LTranslit=kätekənolodži|Translit=kätekənolodži
 11	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	13	nmod	_	Gloss=technology|LTranslit=tekənolodži|Translit=tekənolodži
 12	ሎቢስቶች	ሎቢስቶች	NOUN	_	_	13	nmod	_	Gloss=lobbyists|LTranslit=lobisətočə|Translit=lobisətočə
@@ -207,24 +207,24 @@
 15	ተመሳሳይ	ተመሳሳይ	ADJ	_	_	17	amod	_	Gloss=similar|LTranslit=tämäsasajə|Translit=tämäsasajə
 16	ቦታን	ቦታን	NOUN	_	_	18	obj	_	Gloss=place|LTranslit=botanə|Translit=botanə
 17	የኡበር	የኡበር	ADJ	_	_	19	amod	_	Gloss=of.Uber|LTranslit=jä'ubärə|Translit=jä'ubärə
-18	የ	የ	GEN	_	_	19	case	_	Gloss=of|LTranslit=jä|Translit=jä
-19	ኡበር	ኡበር	NOUN	_	_	21	nmod	_	Gloss=Uber|LTranslit='ubärə|Translit='ubärə
-20	ተወካዮችን	ተወካዮችን	NOUN	_	_	21	obj	_	Gloss=representatives|LTranslit=täwäkajočənə|Translit=täwäkajočənə
-21	የአሜሪካ	የአሜሪካ	ADJ	_	_	23	amod	_	Gloss=of.American|LTranslit=jä'ämerika|Translit=jä'ämerika
-22	የ	የ	GEN	_	_	23	case	_	Gloss=of|LTranslit=jä|Translit=jä
-23	አሜሪካ	አሜሪካ	NOUN	_	_	25	nmod	_	Gloss=America|LTranslit='ämerika|Translit='ämerika
-24	ሞሽን	ሞሽን	NOUN	_	_	25	nmod	_	Gloss=Motion|LTranslit=mošənə|Translit=mošənə
-25	ፎቶግራፍ	ፎቶግራፍ	NOUN	_	_	27	nmod	_	Gloss=photograph|LTranslit=fotogərafə|Translit=fotogərafə
-26	ማህበር	ማህበር	NOUN	_	_	27	nmod	_	Gloss=Association|LTranslit=mahəbärə|Translit=mahəbärə
-27	የሸማቾች	የሸማቾች	ADJ	_	_	29	amod	_	Gloss=of.Consumer|LTranslit=jäšämačočə|Translit=jäšämačočə
-28	የ	የ	GEN	_	_	29	case	_	Gloss=of|LTranslit=jä|Translit=jä
-29	ሸማቾች	ሸማቾች	NOUN	_	_	31	nmod	_	Gloss=Consumer|LTranslit=šämačočə|Translit=šämačočə
+18	የ	የ	ADP	_	_	19	case	_	Gloss=of|LTranslit=jä|Translit=jä
+19	ኡበር	ኡበር	NOUN	_	_	20	nmod	_	Gloss=Uber|LTranslit='ubärə|Translit='ubärə
+20	ተወካዮችን	ተወካዮችን	NOUN	_	_	35	obj	_	Gloss=representatives|LTranslit=täwäkajočənə|Translit=täwäkajočənə
+21	የአሜሪካ	የአሜሪካ	ADJ	_	_	26	amod	_	Gloss=of.American|LTranslit=jä'ämerika|Translit=jä'ämerika
+22	የ	የ	ADP	_	_	26	case	_	Gloss=of|LTranslit=jä|Translit=jä
+23	አሜሪካ	አሜሪካ	NOUN	_	_	26	nmod	_	Gloss=America|LTranslit='ämerika|Translit='ämerika
+24	ሞሽን	ሞሽን	NOUN	_	_	25	nmod	_	Gloss=motion|LTranslit=mošənə|Translit=mošənə
+25	ፎቶግራፍ	ፎቶግራፍ	NOUN	_	_	26	nmod	_	Gloss=photograph|LTranslit=fotogərafə|Translit=fotogərafə
+26	ማህበር	ማህበር	NOUN	_	_	19	conj	_	Gloss=association|LTranslit=mahəbärə|Translit=mahəbärə
+27	የሸማቾች	የሸማቾች	ADJ	_	_	31	amod	_	Gloss=of.Consumer|LTranslit=jäšämačočə|Translit=jäšämačočə
+28	የ	የ	ADP	_	_	31	case	_	Gloss=of|LTranslit=jä|Translit=jä
+29	ሸማቾች	ሸማቾች	NOUN	_	_	30	nmod	_	Gloss=consumer|LTranslit=šämačočə|Translit=šämačočə
 30	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	31	nmod	_	Gloss=technology|LTranslit=tekənolodži|Translit=tekənolodži
-31	ማህበር	ማህበር	NOUN	_	_	32	compound	_	Gloss=Association|LTranslit=mahəbärə|Translit=mahəbärə
+31	ማህበር	ማህበር	NOUN	_	_	19	conj	_	Gloss=association|LTranslit=mahəbärə|Translit=mahəbärə
 32	እና	እና	CCONJ	_	_	34	cc	_	Gloss=and|LTranslit='əna|Translit='əna
 33	ሌሎች	ሌሎች	ADJ	_	_	34	amod	_	Gloss=other|LTranslit=leločə|Translit=leločə
-34	ቡድኖችን	ቡድኖችን	NOUN	_	_	36	obj	_	Gloss=groups|LTranslit=budənočənə|Translit=budənočənə
-35	በመጋበዝ	በመጋበዝ	VERB	_	_	37	acl	_	Gloss=inviting|LTranslit=bämägabäzə|Translit=bämägabäzə
+34	ቡድኖችን	ቡድኖችን	NOUN	_	_	19	conj	_	Gloss=groups|LTranslit=budənočənə|Translit=budənočənə
+35	በመጋበዝ	በመጋበዝ	VERB	_	_	36	acl	_	Gloss=inviting|LTranslit=bämägabäzə|Translit=bämägabäzə
 36	ነበር	ነበር	AUX	_	_	0	root	_	Gloss=was|LTranslit=näbärə|Translit=näbärə
 37	።	።	PUNCT	_	_	36	punct	_	Gloss=.|LTranslit=.|Translit=.
 
@@ -234,18 +234,18 @@
 # text_ipa = sibisebawi bemejemerīya yetak'edewi lewashinigiteni yegili mētiropolītani kilebi ket'ik'īti bilokochi rik'o bemīgenyewi ēchi godana layi newi
 # text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
 # language = Amharic
-1	ስብሰባው	ስብሰባው	NOUN	_	_	2	subj	_	Gloss=meeting|LTranslit=səbəsäbawə|Translit=səbəsäbawə
+1	ስብሰባው	ስብሰባው	NOUN	_	_	2	nsubj	_	Gloss=meeting|LTranslit=səbəsäbawə|Translit=səbəsäbawə
 2	በመጀመሪያ	በመጀመሪያ	ADP	_	_	3	obl	_	Gloss=at.beginning|LTranslit=bämädžämärija|Translit=bämädžämärija
 3	የታቀደው	የታቀደው	ADJ	_	_	4	amod	_	Gloss=planned|LTranslit=jätaqädäwə|Translit=jätaqädäwə
 4	ለዋሽንግተን	ለዋሽንግተን	ADP	_	_	5	obl	_	Gloss=for.Washington|LTranslit=läwašənəgətänə|Translit=läwašənəgətänə
 5	የግል	የግል	ADJ	_	_	7	amod	_	Gloss=of.private|LTranslit=jägələ|Translit=jägələ
-6	የ	የ	GEN	_	_	7	case	_	Gloss=of|LTranslit=jä|Translit=jä
+6	የ	የ	ADP	_	_	7	case	_	Gloss=of|LTranslit=jä|Translit=jä
 7	ግል	ግል	NOUN	_	_	9	amod	_	Gloss=private|LTranslit=gələ|Translit=gələ
 8	ሜትሮፖሊታን	ሜትሮፖሊታን	NOUN	_	_	9	amod	_	Gloss=Metropolitan|LTranslit=metəropolitanə|Translit=metəropolitanə
 9	ክለብ	ክለብ	NOUN	_	_	10	amod	_	Gloss=Club|LTranslit=kəläbə|Translit=kəläbə
-10	ከጥቂት	ከጥቂት	ADP	_	_	12	obl	_	Gloss=from.few|LTranslit=käţəqitə|Translit=käţəqitə
+10	ከጥቂት	ከጥቂት	ADP	_	_	12	case	_	Gloss=from.few|LTranslit=käţəqitə|Translit=käţəqitə
 11	ጥቂት	ጥቂት	PRON	_	_	12	amod	_	Gloss=few|LTranslit=ţəqitə|Translit=ţəqitə
-12	ብሎኮች	ብሎኮች	NOUN	_	_	13	obj	_	Gloss=blocks|LTranslit=bəlokočə|Translit=bəlokočə
+12	ብሎኮች	ብሎኮች	NOUN	_	_	13	obl	_	Gloss=blocks|LTranslit=bəlokočə|Translit=bəlokočə
 13	ርቆ	ርቆ	ADV	_	_	14	advmod	_	Gloss=away|LTranslit=rəqo|Translit=rəqo
 14	በሚገኘው	በሚገኘው	ADP	_	_	16	obl	_	Gloss=on.found|LTranslit=bämigäňäwə|Translit=bämigäňäwə
 15	ኤች	ኤች	NOUN	_	_	16	amod	_	Gloss=H|LTranslit='ečə|Translit='ečə
