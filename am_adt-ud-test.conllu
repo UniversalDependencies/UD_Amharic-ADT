@@ -63,36 +63,40 @@
 14	።	።	PUNCT	_	_	13	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 03
-# text = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ በ"ብቃት ስርዓት" ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
+# text = ነገር ግን ኢሚግሬሽንን ስለመገደብ ካለፈው ንግግሩ እረፍት ላይ፣ የጂኦፒ ተሿሚው እንደ ፕሬዝደንትነቱ “በብቃት ስርዓት” ላይ በመመስረት ህጋዊ ስደተኞችን “እጅግ በጣም ብዙ” እንደሚፈቅድ አስታውቋል።
 # translit = nägärə gənə 'imigərešənənə səlämägädäbə kaläfäwə nəgəgəru 'əräfətə lajə, jädži'opi täšămiwə 'ənədä pərezədänətənätu bä"bəqatə sərə`atə" lajə bämämäsərätə həgawi sədätäňočənə “'ədžəgə bäţamə bəzu” 'ənədämifäqədə 'äsətawəqwalə.
 # text_ipa = negeri gini īmīgirēshinini silemegedebi kalefewi nigigiru irefiti layi, yejī'opī teshwamīwi inide pirēzidenitinetu be"bik'ati siri'ati" layi bememesireti higawī sidetenyochini “ijigi bet'ami bizu” inidemīfek'idi āsitawik'wali.
 # text_en = But in a break from his past rhetoric about curtailing immigration, the GOP nominee proclaimed that as president he would allow “tremendous numbers” of legal immigrants based on a “merit system.”
 # language = Amharic
-1	ነገር	ነገር	NOUN	_	_	17	nsubj	_	Gloss=however|LTranslit=nägärə|Translit=nägärə
+1	ነገር	ነገር	NOUN	_	_	26	obl	_	Gloss=however|LTranslit=nägärə|Translit=nägärə
 2	ግን	ግን	CCONJ	_	_	1	cc	_	Gloss=but|LTranslit=gənə|Translit=gənə
 3	ኢሚግሬሽንን	ኢሚግሬሽን	NOUN	_	_	4	obl	_	Gloss=immigration|LTranslit='imigərešənə|Translit='imigərešənənə
-4	ስለመገደብ	ስለመገደብ	VERB	_	_	17	obl	_	Gloss=regarding|LTranslit=səlämägädäbə|Translit=səlämägädäbə
-5	ካለፈው	ካለፈ	VERB	_	_	6	amod	_	Gloss=has passed|LTranslit=kaläfä|Translit=kaläfäwə
-6	ንግግሩ	ንግግር	NOUN	_	_	4	nsubj	_	Gloss=speech|LTranslit=nəgəgərə|Translit=nəgəgəru
-7	እረፍት	እረፍት	NOUN	_	_	8	obl	_	Gloss=break|LTranslit='əräfətə|Translit='əräfətə
-8	ላይ	ላይ	ADP	_	_	6	obl	_	Gloss=on|LTranslit=lajə|SpaceAfter=No|Translit=lajə
-9	፣	፣	PUNCT	_	_	8	punct	_	Gloss=,|LTranslit=,|Translit=,
-10	የጂኦፒ	ጂኦፒ	PROPN	_	_	12	compound	_	Gloss=GOP|LTranslit=dži'opi|Translit=jädži'opi
-11	ተሿሚው	ተሿሚ	NOUN	_	_	12	nmod	_	Gloss=nominee|LTranslit=täšămi|Translit=täšămiwə
-12	እንደ	እንደ	ADP	_	_	17	advmod	_	Gloss=as|LTranslit='ənədä|Translit='ənədä
-13	ፕሬዝደንትነቱ	ፕሬዝደንትነት	NOUN	_	_	14	compound	_	Gloss=presidency|LTranslit=pərezədänətənätə|Translit=pərezədänətənätu
-14	በብቃት	ብቃት	NOUN	_	_	15	obl	_	Gloss=merit|LTranslit=bəqatə|Translit=bäbəqatə
-15	ስርዓት	ስርዓት	NOUN	_	_	17	obl	_	Gloss=system|LTranslit=sərə`atə|Translit=sərə`atə
-16	ላይ	ላይ	ADP	_	_	15	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
-17	በመመስረት	መመስረት	VERB	_	_	0	root	_	Gloss=based on|LTranslit=mämäsərätə|Translit=bämämäsərätə
-18	ህጋዊ	ህጋዊ	ADJ	_	_	20	amod	_	Gloss=legal|LTranslit=həgawi|Translit=həgawi
-19	ስደተኞችን	ስደተኞች	NOUN	_	_	20	obj	_	Gloss=refugees|LTranslit=sədätäňočə|Translit=sədätäňočənə
-20	እጅግ	እጅግ	ADV	_	_	21	advmod	_	Gloss=very|LTranslit='ədžəgə|Translit='ədžəgə
-21	በጣም	በጣም	ADV	_	_	17	advmod	_	Gloss=extremely|LTranslit=bäţamə|Translit=bäţamə
-22	ብዙ	ብዙ	ADJ	_	_	17	amod	_	Gloss=many|LTranslit=bəzu|Translit=bəzu
-23	እንደሚፈቅድ	እንደሚፈቅድ	VERB	_	_	17	ccomp	_	Gloss=would allow|LTranslit='ənədämifäqədə|Translit='ənədämifäqədə
-24	አስታውቋል	አስታውቋል	VERB	_	_	17	advmod	_	Gloss=indicated|LTranslit='äsətawəqwalə|Translit='äsətawəqwalə
-25	።	።	PUNCT	_	_	17	punct	_	Gloss=.|LTranslit=.|Translit=.
+4	ስለመገደብ	ስለመገደብ	VERB	_	_	6	acl	_	Gloss=about restricting|LTranslit=səlämägädäbə|Translit=səlämägädäbə
+5	ካለፈው	ካለፈ	VERB	_	_	6	acl	_	Gloss=has passed|LTranslit=kaläfä|Translit=kaläfäwə
+6	ንግግሩ	ንግግር	NOUN	_	_	7	nmod	_	Gloss=speech|LTranslit=nəgəgərə|Translit=nəgəgəru
+7	እረፍት	እረፍት	NOUN	_	_	26	obl	_	Gloss=break|LTranslit='əräfətə|Translit='əräfətə
+8	ላይ	ላይ	ADP	_	_	7	case	_	Gloss=on|LTranslit=lajə|SpaceAfter=No|Translit=lajə
+9	፣	፣	PUNCT	_	_	7	punct	_	Gloss=,|LTranslit=,|Translit=,
+10	የጂኦፒ	ጂኦፒ	PROPN	_	_	11	compound	_	Gloss=GOP|LTranslit=dži'opi|Translit=jädži'opi
+11	ተሿሚው	ተሿሚ	NOUN	_	_	26	nsubj	_	Gloss=nominee|LTranslit=täšămi|Translit=täšămiwə
+12	እንደ	እንደ	ADP	_	_	13	case	_	Gloss=as|LTranslit='ənədä|Translit='ənədä
+13	ፕሬዝደንትነቱ	ፕሬዝደንትነት	NOUN	_	_	25	obl	_	Gloss=presidency|LTranslit=pərezədänətənätə|Translit=pərezədänətənätu
+14	“	“	PUNCT	_	_	16	punct	_	Gloss=“|LTranslit=“|SpaceAfter=No|Translit=“
+15	በብቃት	ብቃት	NOUN	_	_	16	nmod	_	Gloss=merit|LTranslit=bəqatə|Translit=bäbəqatə
+16	ስርዓት	ስርዓት	NOUN	_	_	19	obl	_	Gloss=system|LTranslit=sərə`atə|SpaceAfter=No|Translit=sərə`atə
+17	”	”	PUNCT	_	_	16	punct	_	Gloss=”|LTranslit=”|Translit=“
+18	ላይ	ላይ	ADP	_	_	16	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
+19	በመመስረት	መመስረት	VERB	_	_	25	root	_	Gloss=based on|LTranslit=mämäsərätə|Translit=bämämäsərätə
+18	ህጋዊ	ህጋዊ	ADJ	_	_	19	amod	_	Gloss=legal|LTranslit=həgawi|Translit=həgawi
+19	ስደተኞችን	ስደተኞች	NOUN	_	_	25	obj	_	Gloss=refugees|LTranslit=sədätäňočə|Translit=sədätäňočənə
+20	“	“	PUNCT	_	_	23	punct	_	Gloss=“|LTranslit=“|SpaceAfter=No|Translit=“
+21	እጅግ	እጅግ	ADV	_	_	22	advmod	_	Gloss=very|LTranslit='ədžəgə|Translit='ədžəgə
+22	በጣም	በጣም	ADV	_	_	23	advmod	_	Gloss=extremely|LTranslit=bäţamə|Translit=bäţamə
+23	ብዙ	ብዙ	ADJ	_	_	19	amod	_	Gloss=many|LTranslit=bəzu|SpaceAfter=No|Translit=bəzu
+24	”	”	PUNCT	_	_	23	punct	_	Gloss=”|LTranslit=”|Translit=“
+25	እንደሚፈቅድ	እንደሚፈቅድ	VERB	_	_	26	ccomp	_	Gloss=would allow|LTranslit='ənədämifäqədə|Translit='ənədämifäqədə
+26	አስታውቋል	አስታውቋል	VERB	_	_	0	root	_	Gloss=indicated|LTranslit='äsətawəqwalə|Translit='äsətawəqwalə
+27	።	።	PUNCT	_	_	26	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 04
 # text = በ ሰሜን ካሮላይና ዩኒቨርስቲ በ ስፖርት ሜዳ ለ ተሰበሰበ ው ህዝብ " ስለዚህ ትንሽ ጫና ማድረግ እጠላለሁ ፣ የሪፐብሊኩ ሪፐብሊኩ እጣ ፈንታ ግን በትከሻችሁ ትከሻች ሁ ላይ ነው " ብሏል ።
