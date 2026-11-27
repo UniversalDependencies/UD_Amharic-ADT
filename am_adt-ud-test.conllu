@@ -139,7 +139,7 @@
 3	በ	በ	ADP	_	_	4	case	_	Transliteration=bä|Gloss=by
 4	ክሊንተን	ክሊንተን	PROPN	_	_	2	nmod	_	Transliteration=Klintän|Gloss=Clinton
 5	ትልቅ	ትልቅ	ADJ	_	_	8	amod	_	Transliteration=tǝllǝk|Gloss=large
-6	የ	የ	GEN	_	_	8	case	_	Transliteration=ya|Gloss=of
+6	የ	የ	ADP	_	_	8	case	_	Transliteration=ya|Gloss=of
 7	ባንክ	ባንክ	NOUN	_	_	8	compound	_	Transliteration=bank|Gloss=bank
 8	አካውንት	አካውንት	NOUN	_	_	2	nmod	_	Transliteration=akawǝnt|Gloss=account
 9	ነው	ነው	AUX	_	_	2	cop	_	Transliteration=näw|Gloss=is
