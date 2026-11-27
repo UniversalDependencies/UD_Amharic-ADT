@@ -114,7 +114,7 @@
 8	ለ	ለ	ADP	_	_	11	case	_	Gloss=to|LTranslit=lä|Translit=lä
 9	ተሰበሰበ	ተሰበሰበ	VERB	_	_	11	acl	_	Gloss=gathered|LTranslit=täsäbäsäbä|Translit=täsäbäsäbä
 10	ው	ው	DET	_	_	11	det	_	Gloss=the|LTranslit=wə|Translit=wə
-11	ህዝብ	ህዝብ	NOUN	_	_	7	nmod	_	Gloss=crowd|LTranslit=həzəbə|Translit=həzəbə
+11	ህዝብ	ህዝብ	NOUN	_	_	28	nmod	_	Gloss=crowd|LTranslit=həzəbə|Translit=həzəbə
 12	"	"	PUNCT	_	_	13	punct	_	Gloss="|LTranslit="|Translit="
 13	ስለዚህ	ስለዚህ	SCONJ	_	_	28	advmod	_	Gloss=Therefore|LTranslit=səläzihə|Translit=səläzihə
 14	ትንሽ	ትንሽ	ADJ	_	_	15	amod	_	Gloss=little|LTranslit=tənəšə|Translit=tənəšə
