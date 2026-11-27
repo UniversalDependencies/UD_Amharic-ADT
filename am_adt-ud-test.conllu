@@ -116,25 +116,25 @@
 10	ው	ው	DET	_	_	11	det	_	Gloss=the|LTranslit=wə|Translit=wə
 11	ህዝብ	ህዝብ	NOUN	_	_	28	nmod	_	Gloss=crowd|LTranslit=həzəbə|Translit=həzəbə
 12	"	"	PUNCT	_	_	13	punct	_	Gloss="|LTranslit="|Translit="
-13	ስለዚህ	ስለዚህ	SCONJ	_	_	28	advmod	_	Gloss=Therefore|LTranslit=səläzihə|Translit=səläzihə
+13	ስለዚህ	ስለዚህ	SCONJ	_	_	28	mark	_	Gloss=therefore|LTranslit=səläzihə|Translit=səläzihə
 14	ትንሽ	ትንሽ	ADJ	_	_	15	amod	_	Gloss=little|LTranslit=tənəšə|Translit=tənəšə
 15	ጫና	ጫና	NOUN	_	_	28	obj	_	Gloss=pressure|LTranslit=ćana|Translit=ćana
 16	ማድረግ	ማድረግ	VERB	_	_	15	acl	_	Gloss=causing|LTranslit=madərägə|Translit=madərägə
 17	እጠላለሁ	እጠላለሁ	VERB	_	_	13	parataxis	_	Gloss=I dislike|LTranslit='əţälalähu|Translit='əţälalähu
 18	፣	፣	PUNCT	_	_	28	punct	_	Gloss=,|LTranslit=,|Translit=,
-19	የሪፐብሊኩ	የ	POS	_	_	21	case	_	Gloss=of|LTranslit=jä|Translit=järipäbəliku
-20	ሪፐብሊኩ	ሪፐብሊኩ	PROPN	_	_	19	nmod	_	Gloss=republic|LTranslit=ripäbəliku|Translit=ripäbəliku
+19	የሪፐብሊኩ	የ	ADP	_	_	20	case	_	Gloss=of|LTranslit=jä|Translit=järipäbəliku
+20	ሪፐብሊኩ	ሪፐብሊኩ	PROPN	_	_	21	nmod	_	Gloss=republic|LTranslit=ripäbəliku|Translit=ripäbəliku
 21	እጣ	እጣ	NOUN	_	_	28	nsubj	_	Gloss=destiny|LTranslit='əţa|Translit='əţa
 22	ፈንታ	ፈንታ	NOUN	_	_	21	compound	_	Gloss=fate|LTranslit=fänəta|Translit=fänəta
 23	ግን	ግን	CCONJ	_	_	28	cc	_	Gloss=however|LTranslit=gənə|Translit=gənə
-24	በትከሻችሁ	በ	ADP	_	_	27	case	_	Gloss=on|LTranslit=bä|Translit=bätəkäšačəhu
-25	ትከሻች	ትከሻ	NOUN	_	_	27	compound	_	Gloss=shoulders|LTranslit=təkäša|Translit=təkäšačə
-26	ሁ	ሁ	PRON	_	_	27	det	_	Gloss=your|LTranslit=hu|Translit=hu
-27	ላይ	ላይ	ADP	_	_	28	compound	_	Gloss=on|LTranslit=lajə|Translit=lajə
+24	በትከሻችሁ	በ	ADP	_	_	25	case	_	Gloss=on|LTranslit=bä|Translit=bätəkäšačəhu
+25	ትከሻች	ትከሻ	NOUN	_	_	28	obl	_	Gloss=shoulders|LTranslit=təkäša|Translit=təkäšačə
+26	ሁ	ሁ	PRON	_	_	25	det	_	Gloss=your|LTranslit=hu|Translit=hu
+27	ላይ	ላይ	ADP	_	_	25	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
 28	ነው	ነው	AUX	_	_	0	root	_	Gloss=is|LTranslit=näwə|Translit=näwə
-29	"	"	PUNCT	_	_	30	punct	_	Gloss="|LTranslit="|Translit="
+29	"	"	PUNCT	_	_	28	punct	_	Gloss="|LTranslit="|Translit="
 30	ብሏል	ብሏል	VERB	_	_	28	parataxis	_	Gloss=said|LTranslit=bəlălə|Translit=bəlălə
-31	።	።	PUNCT	_	_	30	punct	_	Gloss=.|LTranslit=.|Translit=.
+31	።	።	PUNCT	_	_	28	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 05
 # text = አዲሱ ወጪ በክሊንተን ትልቅ የባንክ አካውንት ነው የተቀጣጠለው።
@@ -179,9 +179,10 @@
 2	ሰው	ሰው	NOUN	_	_	4	nmod	_	Gloss=person|LTranslit=säwə|Translit=säwə
 3	5,000	5,000	NUM	_	_	4	nummod	_	Gloss=5000|LTranslit=5,000|Translit=5,000
 4	ዶላር	ዶላር	NOUN	_	_	0	root	_	Gloss=dollars|LTranslit=dolarə|SpaceAfter=No|Translit=dolarə
-5	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	6	amod	_	Gloss=allowed|LTranslit=jämifäqädäwə|Translit=jämifäqädäwə
-6	ከፍተኛ	ከፍተኛ	ADJ	_	_	3	appos	_	Gloss=high|LTranslit=käfətäňa|Translit=käfətäňa
-7	።	።	PUNCT	_	_	4	punct	_	Gloss=.|LTranslit=.|Translit=.
+5	፣	፣	PUNCT	_	_	7	punct	_	Gloss=,|LTranslit=,|Translit=,
+6	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	7	amod	_	Gloss=allowed|LTranslit=jämifäqädäwə|Translit=jämifäqädäwə
+7	ከፍተኛ	ከፍተኛ	ADJ	_	_	3	appos	_	Gloss=high|LTranslit=käfətäňa|Translit=käfətäňa
+8	።	።	PUNCT	_	_	4	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 08
 # text = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ የ ሽግግር ኡ ቡድን ከቴክኖሎጂ ቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን የኡበር የ ኡበር ተወካዮችን የአሜሪካ የ አሜሪካ ሞሽን ፎቶግራፍ ማህበር የሸማቾች የ ሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር ።
