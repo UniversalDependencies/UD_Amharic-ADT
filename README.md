@@ -33,7 +33,7 @@ Genre: news
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
-Features: manual native
+Features: not available
 Relations: manual native
 Contributors: Tilahun, Dawit J.
 Contributing: here

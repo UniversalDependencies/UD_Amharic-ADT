@@ -5,13 +5,13 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>10</sentences><tokens>191</tokens><words>191</words><fused>0</fused></total>
+    <total><sentences>10</sentences><tokens>192</tokens><words>192</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>10</sentences><tokens>191</tokens><words>191</words><fused>0</fused></test>
+    <test><sentences>10</sentences><tokens>192</tokens><words>192</words><fused>0</fused></test>
   </size>
-  <lemmas unique="146" /><!-- የ, ።, በ, ላይ, ነው, ሽግግር, ግን, ", ለ, ማህበር, በጣም, ቴክኖሎጂ, ትንሽ, ነበር, እና -->
-  <forms unique="148" /><!-- የ, ።, በ, ላይ, ነው, ሽግግር, ግን, ", ለ, ማህበር, በጣም, ቴክኖሎጂ, ትንሽ, ነበር, እና -->
+  <lemmas unique="146" /><!-- የ, ።, በ, ላይ, ነው, ሽግግር, ግን, ፣, ", ለ, ማህበር, በጣም, ቴክኖሎጂ, ትንሽ, ነበር -->
+  <forms unique="148" /><!-- የ, ።, በ, ላይ, ነው, ሽግግር, ግን, ፣, ", ለ, ማህበር, በጣም, ቴክኖሎጂ, ትንሽ, ነበር -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
@@ -27,16 +27,12 @@
     <tag name="POS">1</tag><!-- የ -->
     <tag name="PRON">4</tag><!-- ሁ, እሱ, ይህ, ጥቂት -->
     <tag name="PROPN">7</tag><!-- ሪፐብሊኩ, ሹልማን, ኦባማ, ካሮላይና, ክሊንተን, ኮሪ, ጂኦፒ -->
-    <tag name="PUNCT">16</tag><!-- ።, ", ፣, “, ” -->
+    <tag name="PUNCT">17</tag><!-- ።, ፣, ", “, ” -->
     <tag name="SCONJ">2</tag><!-- ም, ስለዚህ -->
     <tag name="VERB">23</tag><!-- ሆኑ, ሆን, ለመገናኘት, መመስረት, ሚከተ, ማድረግ, ሲሉ, ስለመገደብ, በመጋበዝ, ብሏል -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="4">
-    <feat name="Case" value="Acc" upos="NOUN">2</feat><!-- ስደተኞችን, ኢሚግሬሽንን -->
-    <feat name="Gender" value="Masc" upos="ADJ,NOUN">4</feat><!-- ሰላማዊው, ተሿሚው, አብዛኛው, ፕሬዝደንትነቱ -->
-    <feat name="Gender" value="Neut" upos="NOUN">2</feat><!-- ስደተኞችን, ኢሚግሬሽንን -->
-    <feat name="Number" value="Sing" upos="ADJ,NOUN">4</feat><!-- ሰላማዊው, ተሿሚው, አብዛኛው, ፕሬዝደንትነቱ -->
+  <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="24">
@@ -61,7 +57,7 @@
     <dep name="obj">7</dep>
     <dep name="obl">14</dep>
     <dep name="parataxis">3</dep>
-    <dep name="punct">16</dep>
+    <dep name="punct">17</dep>
     <dep name="root">11</dep>
     <dep name="subj">2</dep>
   </deps>
