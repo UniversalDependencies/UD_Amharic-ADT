@@ -21,14 +21,14 @@
 12	ም	ም	SCONJ	_	_	9	mark	_	Gloss=(conditional marker)|LTranslit=mə|SpaceAfter=No|Translit=mə
 13	፣	፣	PUNCT	_	_	9	punct	_	Gloss=,|LTranslit=,|Translit=,
 14	ሰላማዊው	ሰላማዊ	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	Gloss=peaceful|LTranslit=sälamawi|Translit=sälamawiwə
-15	የ	የ	ADP	_	_	16	case	_	Gloss=of|LTranslit=jä|Translit=jä
+15	የ	የ	ADP	_	_	16	case	_	Gloss=of|LTranslit=jä|SpaceAfter=No|Translit=jä
 16	ስልጣን	ስልጣን	NOUN	_	_	17	nsubj	_	Gloss=power|LTranslit=sələţanə|Translit=sələţanə
 17	ሽግግር	ሽግግር	NOUN	_	_	19	nsubj	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
 18	ግን	ግን	CCONJ	_	_	19	cc	_	Gloss=but|LTranslit=gənə|Translit=gənə
-19	አይደለም	አይደለም	VERB	_	_	9	conj	_	Gloss=not|LTranslit='äjədälämə|Translit='äjədälämə
+19	አይደለም	አይደለም	VERB	_	_	9	conj	_	Gloss=not|LTranslit='äjədälämə|SpaceAfter=No|Translit='äjədälämə
 20	”	”	PUNCT	_	_	9	punct	_	Gloss="|LTranslit=”|Translit=”
 21	ሲሉ	ሲሉ	VERB	_	_	9	parataxis	_	Gloss=saying|LTranslit=silu|Translit=silu
-22	የ	የ	ADP	_	_	23	case	_	Gloss=of|LTranslit=jä|Translit=jä
+22	የ	የ	ADP	_	_	23	case	_	Gloss=of|LTranslit=jä|Translit=jä|SpaceAfter=No
 23	ኦባማ	ኦባማ	PROPN	_	_	25	compound	_	Gloss=Obama|LTranslit='obama|Translit='obama
 24	ልዩ	ልዩ	ADJ	_	_	25	amod	_	Gloss=special|LTranslit=ləju|Translit=ləju
 25	ረዳት	ረዳት	NOUN	_	_	21	nsubj	_	Gloss=assistant|LTranslit=rädatə|Translit=rädatə
@@ -36,9 +36,9 @@
 27	ኮሪ	ኮሪ	PROPN	_	_	25	flat	_	Gloss=Kori|LTranslit=kori|Translit=kori
 28	ሹልማን	ሹልማን	PROPN	_	_	26	flat	_	Gloss=Schulman|LTranslit=šuləmanə|Translit=šuləmanə
 29	ሰኞ	ሰኞ	NOUN	_	_	32	obl	_	Gloss=Monday|LTranslit=säňo|Translit=säňo
-30	በ	በ	ADP	_	_	31	case	_	Gloss=in|LTranslit=bä|Translit=bä
+30	በ	በ	ADP	_	_	31	case	_	Gloss=in|LTranslit=bä|SpaceAfter=No|Translit=bä
 31	ብሎግ	ብሎግ	NOUN	_	_	32	obl	_	Gloss=blog|LTranslit=bəlogə|Translit=bəlogə
-32	ፅፈዋል	ፅፈዋል	VERB	_	_	21	ccomp	_	Gloss=wrote|LTranslit=dzəfäwalə|Translit=dzəfäwalə
+32	ፅፈዋል	ፅፈዋል	VERB	_	_	21	ccomp	_	Gloss=wrote|LTranslit=dzəfäwalə|SpaceAfter=No|Translit=dzəfäwalə
 33	።	።	PUNCT	_	_	9	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 02
