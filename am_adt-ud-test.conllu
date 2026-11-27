@@ -4,7 +4,7 @@
 # For each sentence: "#sent_id", "#text_amh", "#text_en"
 # For each toekn : column1 = toekn in the language, column2 = English Gloss, column3 = POS, column4 = comment
 # sent_id = 01
-# text = አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
+# text = “አብዛኛው የዲጂታል ሽግግር በዩናይትድ ስቴትስ ታይቶ ቢሆንም፣ ሰላማዊው የስልጣን ሽግግር ግን አይደለም” ሲሉ የኦባማ ልዩ ረዳት የሆኑት ኮሪ ሹልማን ሰኞ በብሎግ ፅፈዋል።
 # text_ipa = ”abzaaw yädi ital gigir bäyunaytd stet tayto yämytawäq bihonm sälamawi yäslt’an ggr gn aydäläm” silu yäobama rädat yähonut kori ulman säo bäbg s’fäwal
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 # language = Amharic
