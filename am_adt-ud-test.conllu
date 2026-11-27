@@ -198,7 +198,7 @@
 6	የ	የ	ADP	_	_	7	case	_	Gloss=of|LTranslit=jä|Translit=jä
 7	ሽግግር	ሽግግር	NOUN	_	_	9	nmod	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
 8	ኡ	ኡ	DET	_	_	9	det	_	Gloss=the|LTranslit='u|Translit='u
-9	ቡድን	ቡድን	NOUN	_	_	13	nsubj	_	Gloss=group|LTranslit=budənə|Translit=budənə
+9	ቡድን	ቡድን	NOUN	_	_	36	nsubj	_	Gloss=group|LTranslit=budənə|Translit=budənə
 10	ከቴክኖሎጂ	ከቴክኖሎጂ	ADP	_	_	11	case	_	Gloss=from.technology|LTranslit=kätekənolodži|Translit=kätekənolodži
 11	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	12	nmod	_	Gloss=technology|LTranslit=tekənolodži|Translit=tekənolodži
 12	ሎቢስቶች	ሎቢስቶች	NOUN	_	_	14	obl	_	Gloss=lobbyists|LTranslit=lobisətočə|Translit=lobisətočə
@@ -236,13 +236,13 @@
 # language = Amharic
 1	ስብሰባው	ስብሰባው	NOUN	_	_	2	nsubj	_	Gloss=meeting|LTranslit=səbəsäbawə|Translit=səbəsäbawə
 2	በመጀመሪያ	በመጀመሪያ	ADP	_	_	3	obl	_	Gloss=at.beginning|LTranslit=bämädžämärija|Translit=bämädžämärija
-3	የታቀደው	የታቀደው	ADJ	_	_	4	amod	_	Gloss=planned|LTranslit=jätaqädäwə|Translit=jätaqädäwə
-4	ለዋሽንግተን	ለዋሽንግተን	ADP	_	_	5	obl	_	Gloss=for.Washington|LTranslit=läwašənəgətänə|Translit=läwašənəgətänə
+3	የታቀደው	የታቀደው	ADJ	_	_	18	xcomp	_	Gloss=planned|LTranslit=jätaqädäwə|Translit=jätaqädäwə
+4	ለዋሽንግተን	ለዋሽንግተን	ADP	_	_	3	obl	_	Gloss=for.Washington|LTranslit=läwašənəgətänə|Translit=läwašənəgətänə
 5	የግል	የግል	ADJ	_	_	7	amod	_	Gloss=of.private|LTranslit=jägələ|Translit=jägələ
 6	የ	የ	ADP	_	_	7	case	_	Gloss=of|LTranslit=jä|Translit=jä
 7	ግል	ግል	NOUN	_	_	9	amod	_	Gloss=private|LTranslit=gələ|Translit=gələ
-8	ሜትሮፖሊታን	ሜትሮፖሊታን	NOUN	_	_	9	amod	_	Gloss=Metropolitan|LTranslit=metəropolitanə|Translit=metəropolitanə
-9	ክለብ	ክለብ	NOUN	_	_	10	amod	_	Gloss=Club|LTranslit=kəläbə|Translit=kəläbə
+8	ሜትሮፖሊታን	ሜትሮፖሊታን	NOUN	_	_	9	amod	_	Gloss=metropolitan|LTranslit=metəropolitanə|Translit=metəropolitanə
+9	ክለብ	ክለብ	NOUN	_	_	3	obl	_	Gloss=club|LTranslit=kəläbə|Translit=kəläbə
 10	ከጥቂት	ከጥቂት	ADP	_	_	12	case	_	Gloss=from.few|LTranslit=käţəqitə|Translit=käţəqitə
 11	ጥቂት	ጥቂት	PRON	_	_	12	amod	_	Gloss=few|LTranslit=ţəqitə|Translit=ţəqitə
 12	ብሎኮች	ብሎኮች	NOUN	_	_	13	obl	_	Gloss=blocks|LTranslit=bəlokočə|Translit=bəlokočə
