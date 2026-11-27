@@ -10,16 +10,16 @@
 # language = Amharic
 1	“	“	PUNCT	_	_	9	punct	_	Transliteration=“|Gloss=“
 2	አብዛኛው	አብዛኛ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	5	amod	_	Transliteration=ʾabzāñyaw|Gloss=majority
-3	የ	የ	ADP	_	_	5	case	_	Transliteration=ye|Gloss=of
+3	የ	የ	ADP	_	_	5	case	_	Transliteration=ye|Gloss=of|SpaceAfter=No
 4	ዲጂታል	ዲጂታል	ADJ	_	_	5	amod	_	Transliteration=dijīṭāl|Gloss=digital
 5	ሽግግር	ሽግግር	NOUN	_	_	9	nsubj	_	Transliteration=šegigǝr|Gloss=transfer
-6	በ	በ	ADP	_	_	8	case	_	Transliteration=be|Gloss=in
+6	በ	በ	ADP	_	_	8	case	_	Transliteration=be|Gloss=in|SpaceAfter=No
 7	ዩናይትድ	ዩናይትድ	ADJ	_	_	8	amod	_	Transliteration=yunāyṭǝd|Gloss=united
 8	ስቴትስ	ስቴትስ	NOUN	_	_	9	obl	_	Transliteration=sǝṭeyṭes|Gloss=states
 9	ታይቶ	ታይቶ	VERB	_	_	0	root	_	Transliteration=tāyto|Gloss=seen
-10	ቢ	ቢ	AUX	_	_	9	aux	_	Transliteration=bi|Gloss=if
-11	ሆን	ሆን	VERB	_	_	9	ccomp	_	Transliteration=hon|Gloss=be
-12	ም	ም	SCONJ	_	_	9	mark	_	Transliteration=mǝ|Gloss=(conditional marker)
+10	ቢ	ቢ	AUX	_	_	9	aux	_	Transliteration=bi|Gloss=if|SpaceAfter=No
+11	ሆን	ሆን	VERB	_	_	9	ccomp	_	Transliteration=hon|Gloss=be|SpaceAfter=No
+12	ም	ም	SCONJ	_	_	9	mark	_	Transliteration=mǝ|Gloss=(conditional marker)|SpaceAfter=No
 13	ሰላማዊው	ሰላማዊ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	16	amod	_	Transliteration=salāmawīw|Gloss=peaceful
 14	የ	የ	ADP	_	_	15	case	_	Transliteration=ye|Gloss=of
 15	ስልጣን	ስልጣን	NOUN	_	_	16	nsubj	_	Transliteration=sǝlṭān|Gloss=power
@@ -46,19 +46,19 @@
 # text_ipa = bekapītoli hīli layi yemahiberawī mīdīya shigigirochini lemīketelu, yihi tinishi yeteleye yihonali
 # text_en = For those who follow social media transitions on Capitol Hill, this will be a little different.
 # language = Amharic
-1	በ	በ	ADP	_	_	2	case	_	Transliteration=be|Gloss=in
+1	በ	በ	ADP	_	_	2	case	_	Transliteration=be|Gloss=in|SpaceAfter=No
 2	ካፒቶል	ካፒቶል	NOUN	_	_	3	compound	_	Transliteration=kapitōl|Gloss=Capitol
 3	ሂል	ሂል	NOUN	_	_	5	obl	_	Transliteration=hil|Gloss=Hill
-4	የ	የ	ADP	_	_	5	case	_	Transliteration=ye|Gloss=of
+4	የ	የ	ADP	_	_	5	case	_	Transliteration=ye|Gloss=of|SpaceAfter=No
 5	ማህበራዊ	ማህበራዊ	ADJ	_	_	6	amod	_	Transliteration=māhǝbǝrāwī|Gloss=social
 6	ሚዲያ	ሚዲያ	NOUN	_	_	7	compound	_	Transliteration=mīdiyā|Gloss=media
 7	ሽግግሮችን	ሽግግሮች	NOUN	_	_	10	obj	_	Transliteration=šǝgigǝroččǝn|Gloss=transitions
-8	ለ	ለ	ADP	_	_	10	case	_	Transliteration=le|Gloss=for
+8	ለ	ለ	ADP	_	_	10	case	_	Transliteration=le|Gloss=for|SpaceAfter=No
 9	ሚከተሉ	ሚከተ	VERB	_	_	10	acl:relcl	_	Transliteration=mīkatǝlu|Gloss=following
 10	ይህ	ይህ	PRON	_	_	12	nsubj	_	Transliteration=yǝhǝ|Gloss=this
 11	ትንሽ	ትንሽ	ADJ	_	_	12	amod	_	Transliteration=tǝnǝš|Gloss=little
 12	የተለየ	የተለየ	ADJ	_	_	13	cop	_	Transliteration=yetelǝye|Gloss=special
-13	ይሆናል	ይሆናል	VERB	_	_	0	root	_	Transliteration=yihonal|Gloss=will be
+13	ይሆናል	ይሆናል	VERB	_	_	0	root	_	Transliteration=yihonal|Gloss=will be|SpaceAfter=No
 14	።	።	PUNCT	_	_	13	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 03
@@ -73,7 +73,7 @@
 5	ካለፈው	ካለፈ	VERB	_	_	6	amod	_	Transliteration=kalläffäw|Gloss=has passed
 6	ንግግሩ	ንግግር	NOUN	_	_	4	nsubj	_	Transliteration=nǝggǝggǝru|Gloss=speech
 7	እረፍት	እረፍት	NOUN	_	_	8	obl	_	Transliteration=ʾäräft|Gloss=break
-8	ላይ	ላይ	ADP	_	_	6	obl	_	Transliteration=läy|Gloss=on
+8	ላይ	ላይ	ADP	_	_	6	obl	_	Transliteration=läy|Gloss=on|SpaceAfter=No
 9	፣	፣	PUNCT	_	_	8	punct	_	Transliteration=,|Gloss=,
 10	የጂኦፒ	ጂኦፒ	PROPN	_	_	12	compound	_	Transliteration=ǧiʾopi|Gloss=GOP
 11	ተሿሚው	ተሿሚ	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	Transliteration=täšwamiw|Gloss=nominee
@@ -136,14 +136,14 @@
 # language = Amharic
 1	አዲሱ	አዲሱ	ADJ	_	_	2	amod	_	Transliteration=adisu|Gloss=new
 2	ወጪ	ወጪ	NOUN	_	_	0	root	_	Transliteration=wäč’ǝ|Gloss=spending
-3	በ	በ	ADP	_	_	4	case	_	Transliteration=bä|Gloss=by
+3	በ	በ	ADP	_	_	4	case	_	Transliteration=bä|Gloss=by|SpaceAfter=No
 4	ክሊንተን	ክሊንተን	PROPN	_	_	2	nmod	_	Transliteration=Klintän|Gloss=Clinton
 5	ትልቅ	ትልቅ	ADJ	_	_	8	amod	_	Transliteration=tǝllǝk|Gloss=large
-6	የ	የ	ADP	_	_	8	case	_	Transliteration=ya|Gloss=of
+6	የ	የ	ADP	_	_	8	case	_	Transliteration=ya|Gloss=of|SpaceAfter=No
 7	ባንክ	ባንክ	NOUN	_	_	8	compound	_	Transliteration=bank|Gloss=bank
 8	አካውንት	አካውንት	NOUN	_	_	2	nmod	_	Transliteration=akawǝnt|Gloss=account
 9	ነው	ነው	AUX	_	_	2	cop	_	Transliteration=näw|Gloss=is
-10	የተቀጣጠለው	የተቀጣጠለው	VERB	_	_	9	acl	_	Transliteration=yätäḳäṭäṭälläw|Gloss=linked
+10	የተቀጣጠለው	የተቀጣጠለው	VERB	_	_	9	acl	_	Transliteration=yätäḳäṭäṭälläw|Gloss=linked|SpaceAfter=No
 11	።	።	PUNCT	_	_	2	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 06
@@ -157,7 +157,7 @@
 4	እሱ	እሱ	PRON	_	_	6	nsubj	_	Transliteration=ǝsu|Gloss=he/it
 5	በእውነቱ	በእውነቱ	ADV	_	_	6	advmod	_	Transliteration=bä-ǝwǝnätǝw|Gloss=truly
 6	የማይታመን	የማይታመን	VERB	_	_	0	root	_	Transliteration=yä-ma-yǝtämmän|Gloss=unreliable
-7	ነው	ነው	AUX	_	_	6	aux	_	Transliteration=näw|Gloss=is
+7	ነው	ነው	AUX	_	_	6	aux	_	Transliteration=näw|Gloss=is|SpaceAfter=No
 8	።	።	PUNCT	_	_	6	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 07
@@ -168,7 +168,7 @@
 1	በአንድ	በአንድ	ADP	_	_	2	case	_	Transliteration=bä-and|Gloss=per.one
 2	ሰው	ሰው	NOUN	_	_	4	nmod	_	Transliteration=säw|Gloss=person
 3	5,000	5,000	NUM	_	_	4	nummod	_	Transliteration=5,000|Gloss=5000
-4	ዶላር	ዶላር	NOUN	_	_	0	root	_	Transliteration=dolar|Gloss=dollars
+4	ዶላር	ዶላር	NOUN	_	_	0	root	_	Transliteration=dolar|Gloss=dollars|SpaceAfter=No
 5	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	6	amod	_	Transliteration=yä-mifäqqädäw|Gloss=allowed
 6	ከፍተኛ	ከፍተኛ	ADJ	_	_	3	appos	_	Transliteration=käfätäñña|Gloss=high
 7	።	።	PUNCT	_	_	4	punct	_	Transliteration=.|Gloss=.
