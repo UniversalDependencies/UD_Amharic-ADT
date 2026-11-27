@@ -151,14 +151,14 @@
 # text_ipa = yemitinagerewi ina yemitiserawi, isu - be'iwinetu, yemayitameni newi
 # text_en = What she’s saying and what she’s doing, it — actually, it’s unbelievable.
 # language = Amharic
-1	የምትናገረው	የምትናገረው	VERB	_	_	2	acl	_	Transliteration=yä-mǝtǝnaggäräwǝ|Gloss=what.you.say
+1	የምትናገረው	የምትናገረው	VERB	_	_	4	acl	_	Transliteration=yä-mǝtǝnaggäräwǝ|Gloss=what.you.say
 2	እና	እና	CCONJ	_	_	1	cc	_	Transliteration=änna|Gloss=and
 3	የምትሰራው	የምትሰራው	VERB	_	_	1	conj	_	Transliteration=yä-mǝtǝsärawǝ|Gloss=what.you.do
 4	እሱ	እሱ	PRON	_	_	6	nsubj	_	Transliteration=ǝsu|Gloss=he/it
 5	በእውነቱ	በእውነቱ	ADV	_	_	6	advmod	_	Transliteration=bä-ǝwǝnätǝw|Gloss=truly
-6	የማይታመን	የማይታመን	VERB	_	_	4	cop	_	Transliteration=yä-ma-yǝtämmän|Gloss=unreliable
+6	የማይታመን	የማይታመን	VERB	_	_	0	root	_	Transliteration=yä-ma-yǝtämmän|Gloss=unreliable
 7	ነው	ነው	AUX	_	_	6	aux	_	Transliteration=näw|Gloss=is
-8	።	።	PUNCT	_	_	0	punct	_	Transliteration=.|Gloss=.
+8	።	።	PUNCT	_	_	6	punct	_	Transliteration=.|Gloss=.
 
 # sent_id = 07
 # text = በአንድ ሰው 5,000 ዶላር፣ የሚፈቀደው ከፍተኛ።
