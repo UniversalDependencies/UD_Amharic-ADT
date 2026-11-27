@@ -5,30 +5,28 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>10</sentences><tokens>192</tokens><words>192</words><fused>0</fused></total>
+    <total><sentences>10</sentences><tokens>197</tokens><words>197</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>10</sentences><tokens>192</tokens><words>192</words><fused>0</fused></test>
+    <test><sentences>10</sentences><tokens>197</tokens><words>197</words><fused>0</fused></test>
   </size>
-  <lemmas unique="146" /><!-- የ, ።, በ, ላይ, ነው, ሽግግር, ግን, ፣, ", ለ, ማህበር, በጣም, ቴክኖሎጂ, ትንሽ, ነበር -->
-  <forms unique="148" /><!-- የ, ።, በ, ላይ, ነው, ሽግግር, ግን, ፣, ", ለ, ማህበር, በጣም, ቴክኖሎጂ, ትንሽ, ነበር -->
+  <lemmas unique="146" /><!-- የ, ።, በ, ላይ, ነው, ፣, ሽግግር, ግን, “, ”, ", ለ, ማህበር, በጣም, ቴክኖሎጂ -->
+  <forms unique="148" /><!-- የ, ።, በ, ላይ, ነው, ፣, ሽግግር, ግን, “, ”, ", ለ, ማህበር, በጣም, ቴክኖሎጂ -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="15">
+  <tags unique="13">
     <tag name="ADJ">26</tag><!-- ትንሽ, ህጋዊ, ሌሎች, ልዩ, ማህበራዊ, ሰላማዊ, ሰሜን, ብዙ, ተመሳሳይ, ትልቅ -->
-    <tag name="ADP">28</tag><!-- በ, ላይ, የ, ለ, ለዋሽንግተን, በመጀመሪያ, በሚገኘው, በአንድ, በጥቅምት, እንደ -->
+    <tag name="ADP">34</tag><!-- የ, በ, ላይ, ለ, ለዋሽንግተን, በመጀመሪያ, በሚገኘው, በአንድ, በጥቅምት, እንደ -->
     <tag name="ADV">6</tag><!-- በጣም, ምናልባት, ርቆ, በእውነቱ, እጅግ -->
-    <tag name="AUX">7</tag><!-- ነው, ነበር, ቢ -->
+    <tag name="AUX">6</tag><!-- ነው, ነበር -->
     <tag name="CCONJ">5</tag><!-- ግን, እና -->
     <tag name="DET">2</tag><!-- ኡ, ው -->
-    <tag name="GEN">5</tag><!-- የ -->
     <tag name="NOUN">58</tag><!-- ሽግግር, ማህበር, ቴክኖሎጂ, ሂል, ህዝብ, ሎቢስቶች, መጀመሪያ, ሚዲያ, ሜትሮፖሊታን, ሜዳ -->
     <tag name="NUM">1</tag><!-- 5,000 -->
-    <tag name="POS">1</tag><!-- የ -->
     <tag name="PRON">4</tag><!-- ሁ, እሱ, ይህ, ጥቂት -->
     <tag name="PROPN">7</tag><!-- ሪፐብሊኩ, ሹልማን, ኦባማ, ካሮላይና, ክሊንተን, ኮሪ, ጂኦፒ -->
-    <tag name="PUNCT">17</tag><!-- ።, ፣, ", “, ” -->
-    <tag name="SCONJ">2</tag><!-- ም, ስለዚህ -->
+    <tag name="PUNCT">22</tag><!-- ።, ፣, “, ”, " -->
+    <tag name="SCONJ">3</tag><!-- ም, ስለዚህ, ቢ -->
     <tag name="VERB">23</tag><!-- ሆኑ, ሆን, ለመገናኘት, መመስረት, ሚከተ, ማድረግ, ሲሉ, ስለመገደብ, በመጋበዝ, ብሏል -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -36,29 +34,29 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="24">
-    <dep name="acl">6</dep>
+    <dep name="acl">7</dep>
     <dep name="acl:relcl">2</dep>
-    <dep name="advmod">9</dep>
-    <dep name="amod">33</dep>
+    <dep name="advcl">1</dep>
+    <dep name="advmod">6</dep>
+    <dep name="amod">30</dep>
     <dep name="appos">1</dep>
     <dep name="aux">2</dep>
-    <dep name="case">27</dep>
+    <dep name="case">31</dep>
     <dep name="cc">5</dep>
     <dep name="ccomp">3</dep>
-    <dep name="compound">12</dep>
-    <dep name="conj">2</dep>
-    <dep name="cop">2</dep>
+    <dep name="compound">8</dep>
+    <dep name="conj">5</dep>
     <dep name="det">3</dep>
     <dep name="flat">2</dep>
-    <dep name="mark">1</dep>
-    <dep name="nmod">18</dep>
-    <dep name="nsubj">9</dep>
+    <dep name="mark">3</dep>
+    <dep name="nmod">16</dep>
+    <dep name="nsubj">11</dep>
     <dep name="nummod">1</dep>
-    <dep name="obj">7</dep>
-    <dep name="obl">14</dep>
+    <dep name="obj">4</dep>
+    <dep name="obl">19</dep>
     <dep name="parataxis">3</dep>
-    <dep name="punct">17</dep>
-    <dep name="root">11</dep>
-    <dep name="subj">2</dep>
+    <dep name="punct">22</dep>
+    <dep name="root">10</dep>
+    <dep name="xcomp">2</dep>
   </deps>
 </treebank>
