@@ -200,12 +200,12 @@
 8	ኡ	ኡ	DET	_	_	9	det	_	Gloss=the|LTranslit='u|Translit='u
 9	ቡድን	ቡድን	NOUN	_	_	13	nsubj	_	Gloss=group|LTranslit=budənə|Translit=budənə
 10	ከቴክኖሎጂ	ከቴክኖሎጂ	ADP	_	_	11	case	_	Gloss=from.technology|LTranslit=kätekənolodži|Translit=kätekənolodži
-11	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	13	nmod	_	Gloss=technology|LTranslit=tekənolodži|Translit=tekənolodži
-12	ሎቢስቶች	ሎቢስቶች	NOUN	_	_	13	nmod	_	Gloss=lobbyists|LTranslit=lobisətočə|Translit=lobisətočə
-13	ጋር	ጋር	ADP	_	_	14	case	_	Gloss=with|LTranslit=garə|Translit=garə
+11	ቴክኖሎጂ	ቴክኖሎጂ	NOUN	_	_	12	nmod	_	Gloss=technology|LTranslit=tekənolodži|Translit=tekənolodži
+12	ሎቢስቶች	ሎቢስቶች	NOUN	_	_	14	obl	_	Gloss=lobbyists|LTranslit=lobisətočə|Translit=lobisətočə
+13	ጋር	ጋር	ADP	_	_	12	case	_	Gloss=with|LTranslit=garə|Translit=garə
 14	ለመገናኘት	ለመገናኘት	VERB	_	_	16	acl	_	Gloss=to-meet|LTranslit=lämägänaňätə|Translit=lämägänaňätə
-15	ተመሳሳይ	ተመሳሳይ	ADJ	_	_	17	amod	_	Gloss=similar|LTranslit=tämäsasajə|Translit=tämäsasajə
-16	ቦታን	ቦታን	NOUN	_	_	18	obj	_	Gloss=place|LTranslit=botanə|Translit=botanə
+15	ተመሳሳይ	ተመሳሳይ	ADJ	_	_	16	amod	_	Gloss=similar|LTranslit=tämäsasajə|Translit=tämäsasajə
+16	ቦታን	ቦታን	NOUN	_	_	36	obl	_	Gloss=place|LTranslit=botanə|Translit=botanə
 17	የኡበር	የኡበር	ADJ	_	_	19	amod	_	Gloss=of.Uber|LTranslit=jä'ubärə|Translit=jä'ubärə
 18	የ	የ	ADP	_	_	19	case	_	Gloss=of|LTranslit=jä|Translit=jä
 19	ኡበር	ኡበር	NOUN	_	_	20	nmod	_	Gloss=Uber|LTranslit='ubärə|Translit='ubärə
