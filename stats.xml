@@ -32,9 +32,8 @@
     <tag name="VERB">23</tag><!-- ሆኑ, ሆን, ለመገናኘት, መመስረት, ሚከተ, ማድረግ, ሲሉ, ስለመገደብ, በመጋበዝ, ብሏል -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="5">
+  <feats unique="4">
     <feat name="Case" value="Acc" upos="NOUN">2</feat><!-- ስደተኞችን, ኢሚግሬሽንን -->
-    <feat name="Definite" value="Def" upos="ADJ,NOUN">6</feat><!-- ሰላማዊው, ስደተኞችን, ተሿሚው, አብዛኛው, ኢሚግሬሽንን, ፕሬዝደንትነቱ -->
     <feat name="Gender" value="Masc" upos="ADJ,NOUN">4</feat><!-- ሰላማዊው, ተሿሚው, አብዛኛው, ፕሬዝደንትነቱ -->
     <feat name="Gender" value="Neut" upos="NOUN">2</feat><!-- ስደተኞችን, ኢሚግሬሽንን -->
     <feat name="Number" value="Sing" upos="ADJ,NOUN">4</feat><!-- ሰላማዊው, ተሿሚው, አብዛኛው, ፕሬዝደንትነቱ -->

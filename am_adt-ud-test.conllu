@@ -10,7 +10,7 @@
 # text_en = “While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.
 # language = Amharic
 1	“	“	PUNCT	_	_	9	punct	_	Gloss=“|LTranslit=“|SpaceAfter=No|Translit=“
-2	አብዛኛው	አብዛኛ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	5	amod	_	Gloss=majority|LTranslit='äbəzaňa|Translit='äbəzaňawə
+2	አብዛኛው	አብዛኛ	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	Gloss=majority|LTranslit='äbəzaňa|Translit='äbəzaňawə
 3	የ	የ	ADP	_	_	5	case	_	Gloss=of|LTranslit=jä|SpaceAfter=No|Translit=jä
 4	ዲጂታል	ዲጂታል	ADJ	_	_	5	amod	_	Gloss=digital|LTranslit=didžitalə|Translit=didžitalə
 5	ሽግግር	ሽግግር	NOUN	_	_	9	nsubj	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
@@ -21,7 +21,7 @@
 10	ቢ	ቢ	AUX	_	_	9	aux	_	Gloss=if|LTranslit=bi|SpaceAfter=No|Translit=bi
 11	ሆን	ሆን	VERB	_	_	9	ccomp	_	Gloss=be|LTranslit=honə|SpaceAfter=No|Translit=honə
 12	ም	ም	SCONJ	_	_	9	mark	_	Gloss=(conditional marker)|LTranslit=mə|SpaceAfter=No|Translit=mə
-13	ሰላማዊው	ሰላማዊ	ADJ	_	Definite=Def|Gender=Masc|Number=Sing	16	amod	_	Gloss=peaceful|LTranslit=sälamawi|Translit=sälamawiwə
+13	ሰላማዊው	ሰላማዊ	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	Gloss=peaceful|LTranslit=sälamawi|Translit=sälamawiwə
 14	የ	የ	ADP	_	_	15	case	_	Gloss=of|LTranslit=jä|Translit=jä
 15	ስልጣን	ስልጣን	NOUN	_	_	16	nsubj	_	Gloss=power|LTranslit=sələţanə|Translit=sələţanə
 16	ሽግግር	ሽግግር	NOUN	_	_	18	nsubj	_	Gloss=transfer|LTranslit=šəgəgərə|Translit=šəgəgərə
@@ -71,7 +71,7 @@
 # language = Amharic
 1	ነገር	ነገር	NOUN	_	_	17	nsubj	_	Gloss=however|LTranslit=nägärə|Translit=nägärə
 2	ግን	ግን	CCONJ	_	_	1	cc	_	Gloss=but|LTranslit=gənə|Translit=gənə
-3	ኢሚግሬሽንን	ኢሚግሬሽን	NOUN	_	Case=Acc|Definite=Def|Gender=Neut	4	obl	_	Gloss=immigration|LTranslit='imigərešənə|Translit='imigərešənənə
+3	ኢሚግሬሽንን	ኢሚግሬሽን	NOUN	_	Case=Acc|Gender=Neut	4	obl	_	Gloss=immigration|LTranslit='imigərešənə|Translit='imigərešənənə
 4	ስለመገደብ	ስለመገደብ	VERB	_	_	17	obl	_	Gloss=regarding|LTranslit=səlämägädäbə|Translit=səlämägädäbə
 5	ካለፈው	ካለፈ	VERB	_	_	6	amod	_	Gloss=has passed|LTranslit=kaläfä|Translit=kaläfäwə
 6	ንግግሩ	ንግግር	NOUN	_	_	4	nsubj	_	Gloss=speech|LTranslit=nəgəgərə|Translit=nəgəgəru
@@ -79,15 +79,15 @@
 8	ላይ	ላይ	ADP	_	_	6	obl	_	Gloss=on|LTranslit=lajə|SpaceAfter=No|Translit=lajə
 9	፣	፣	PUNCT	_	_	8	punct	_	Gloss=,|LTranslit=,|Translit=,
 10	የጂኦፒ	ጂኦፒ	PROPN	_	_	12	compound	_	Gloss=GOP|LTranslit=dži'opi|Translit=jädži'opi
-11	ተሿሚው	ተሿሚ	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	12	nmod	_	Gloss=nominee|LTranslit=täšămi|Translit=täšămiwə
+11	ተሿሚው	ተሿሚ	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	Gloss=nominee|LTranslit=täšămi|Translit=täšămiwə
 12	እንደ	እንደ	ADP	_	_	17	advmod	_	Gloss=as|LTranslit='ənədä|Translit='ənədä
-13	ፕሬዝደንትነቱ	ፕሬዝደንትነት	NOUN	_	Definite=Def|Gender=Masc|Number=Sing	14	compound	_	Gloss=presidency|LTranslit=pərezədänətənätə|Translit=pərezədänətənätu
+13	ፕሬዝደንትነቱ	ፕሬዝደንትነት	NOUN	_	Gender=Masc|Number=Sing	14	compound	_	Gloss=presidency|LTranslit=pərezədänətənätə|Translit=pərezədänətənätu
 14	በብቃት	ብቃት	NOUN	_	_	15	obl	_	Gloss=merit|LTranslit=bəqatə|Translit=bäbəqatə
 15	ስርዓት	ስርዓት	NOUN	_	_	17	obl	_	Gloss=system|LTranslit=sərə`atə|Translit=sərə`atə
 16	ላይ	ላይ	ADP	_	_	15	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
 17	በመመስረት	መመስረት	VERB	_	_	0	root	_	Gloss=based on|LTranslit=mämäsərätə|Translit=bämämäsərätə
 18	ህጋዊ	ህጋዊ	ADJ	_	_	20	amod	_	Gloss=legal|LTranslit=həgawi|Translit=həgawi
-19	ስደተኞችን	ስደተኞች	NOUN	_	Case=Acc|Definite=Def|Gender=Neut	20	obj	_	Gloss=refugees|LTranslit=sədätäňočə|Translit=sədätäňočənə
+19	ስደተኞችን	ስደተኞች	NOUN	_	Case=Acc|Gender=Neut	20	obj	_	Gloss=refugees|LTranslit=sədätäňočə|Translit=sədätäňočənə
 20	እጅግ	እጅግ	ADV	_	_	21	advmod	_	Gloss=very|LTranslit='ədžəgə|Translit='ədžəgə
 21	በጣም	በጣም	ADV	_	_	17	advmod	_	Gloss=extremely|LTranslit=bäţamə|Translit=bäţamə
 22	ብዙ	ብዙ	ADJ	_	_	17	amod	_	Gloss=many|LTranslit=bəzu|Translit=bəzu
@@ -96,6 +96,7 @@
 25	።	።	PUNCT	_	_	17	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 04
+# text = በ ሰሜን ካሮላይና ዩኒቨርስቲ በ ስፖርት ሜዳ ለ ተሰበሰበ ው ህዝብ " ስለዚህ ትንሽ ጫና ማድረግ እጠላለሁ ፣ የሪፐብሊኩ ሪፐብሊኩ እጣ ፈንታ ግን በትከሻችሁ ትከሻች ሁ ላይ ነው " ብሏል ።
 # text_amh = በሰሜን ካሮላይና ዩኒቨርስቲ በስፖርት ሜዳ ለተሰበሰበው ህዝብ "ስለዚህ ትንሽ ጫና ማድረግ እጠላለሁ፣ የሪፐብሊኩ እጣ ፈንታ ግን በትከሻችሁ ላይ ነው" ብሏል።
 # text_ipa = besemēni karolayina yunīverisitī besiporiti mēda letesebesebewi hizibi "silezīhi tinishi ch'ana madiregi it'elalehu, yerīpebilīku it'a fenita gini betikeshachihu layi newi" bilwali
 # text_en = “So I hate to put a little pressure on you, but the fate of the republic rests on your shoulders,” he told the crowd gathered on a sports field at the University of North Carolina.
@@ -180,6 +181,7 @@
 7	።	።	PUNCT	_	_	4	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 08
+# text = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ የ ሽግግር ኡ ቡድን ከቴክኖሎጂ ቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን የኡበር የ ኡበር ተወካዮችን የአሜሪካ የ አሜሪካ ሞሽን ፎቶግራፍ ማህበር የሸማቾች የ ሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር ።
 # text_amh = በጥቅምት ወር መጀመሪያ ላይ የሽግግሩ ቡድን ከቴክኖሎጂ ሎቢስቶች ጋር ለመገናኘት ተመሳሳይ ቦታን ተጠቅሞ የኡበር ተወካዮችን፣ የአሜሪካ ሞሽን ፎቶግራፍ ማህበር፣ የሸማቾች ቴክኖሎጂ ማህበር እና ሌሎች ቡድኖችን በመጋበዝ ነበር።
 # text_ipa = bet'ik'imiti weri mejemerīya layi yeshigigiru budini ketēkinolojī lobīsitochi gari lemegenanyeti temesasayi botani tet'ek'imo ye'uberi tewekayochini, ye'āmērīka moshini photogirafi mahiberi, yeshemachochi tēkinolojī mahiberi ina lēlochi budinochini bemegabezi neberi
 # text_en = In early October, the transition team used the same venue to meet with technology lobbyists, inviting representatives from Uber, the Motion Picture Association of America, the Consumer Technology Association and other groups.
@@ -223,6 +225,7 @@
 37	።	።	PUNCT	_	_	0	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 09
+# text = ስብሰባው በመጀመሪያ የታቀደው ለዋሽንግተን የግል የ ግል ሜትሮፖሊታን ክለብ ከጥቂት ጥቂት ብሎኮች ርቆ በሚገኘው ኤች ጎዳና ላይ ነው ።
 # text_amh = ስብሰባው በመጀመሪያ የታቀደው ለዋሽንግተን የግል ሜትሮፖሊታን ክለብ ከጥቂት ብሎኮች ርቆ በሚገኘው ኤች ጎዳና ላይ ነው።
 # text_ipa = sibisebawi bemejemerīya yetak'edewi lewashinigiteni yegili mētiropolītani kilebi ket'ik'īti bilokochi rik'o bemīgenyewi ēchi godana layi newi
 # text_en = The gathering was originally slated for Washington’s private Metropolitan Club on H Street a few blocks away.
@@ -248,6 +251,7 @@
 19	።	።	PUNCT	_	_	0	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 10
+# text = ምናልባት የአለባበስ ኮድ በጣም የተጨናነቀ ነበር ።
 # text_amh = ምናልባት የአለባበስ ኮድ በጣም የተጨናነቀ ነበር።
 # text_ipa = minalibati ye'ālebabesi kodi bet'ami yetech'enanek'e neberi
 # text_en = Maybe the dress code was too stuffy.
