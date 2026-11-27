@@ -181,7 +181,7 @@
 4	ዶላር	ዶላር	NOUN	_	_	0	root	_	Gloss=dollars|LTranslit=dolarə|SpaceAfter=No|Translit=dolarə
 5	፣	፣	PUNCT	_	_	7	punct	_	Gloss=,|LTranslit=,|Translit=,
 6	የሚፈቀደው	የሚፈቀደው	ADJ	_	_	7	amod	_	Gloss=allowed|LTranslit=jämifäqädäwə|Translit=jämifäqädäwə
-7	ከፍተኛ	ከፍተኛ	ADJ	_	_	3	appos	_	Gloss=high|LTranslit=käfətäňa|Translit=käfətäňa
+7	ከፍተኛ	ከፍተኛ	ADJ	_	_	3	appos	_	Gloss=high|LTranslit=käfətäňa|SpaceAfter=No|Translit=käfətäňa
 8	።	።	PUNCT	_	_	4	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 08
@@ -226,7 +226,7 @@
 34	ቡድኖችን	ቡድኖችን	NOUN	_	_	36	obj	_	Gloss=groups|LTranslit=budənočənə|Translit=budənočənə
 35	በመጋበዝ	በመጋበዝ	VERB	_	_	37	acl	_	Gloss=inviting|LTranslit=bämägabäzə|Translit=bämägabäzə
 36	ነበር	ነበር	AUX	_	_	0	root	_	Gloss=was|LTranslit=näbärə|Translit=näbärə
-37	።	።	PUNCT	_	_	0	punct	_	Gloss=.|LTranslit=.|Translit=.
+37	።	።	PUNCT	_	_	36	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 09
 # text = ስብሰባው በመጀመሪያ የታቀደው ለዋሽንግተን የግል የ ግል ሜትሮፖሊታን ክለብ ከጥቂት ጥቂት ብሎኮች ርቆ በሚገኘው ኤች ጎዳና ላይ ነው ።
@@ -252,7 +252,7 @@
 16	ጎዳና	ጎዳና	NOUN	_	_	18	amod	_	Gloss=Street|LTranslit=godana|Translit=godana
 17	ላይ	ላይ	ADP	_	_	18	case	_	Gloss=on|LTranslit=lajə|Translit=lajə
 18	ነው	ነው	AUX	_	_	0	root	_	Gloss=is|LTranslit=näwə|Translit=näwə
-19	።	።	PUNCT	_	_	0	punct	_	Gloss=.|LTranslit=.|Translit=.
+19	።	።	PUNCT	_	_	18	punct	_	Gloss=.|LTranslit=.|Translit=.
 
 # sent_id = 10
 # text = ምናልባት የአለባበስ ኮድ በጣም የተጨናነቀ ነበር ።
@@ -266,5 +266,5 @@
 4	በጣም	በጣም	ADV	_	_	5	advmod	_	Gloss=very|LTranslit=bäţamə|Translit=bäţamə
 5	የተጨናነቀ	የተጨናነቀ	ADJ	_	_	6	amod	_	Gloss=crowded|LTranslit=jätäćänanäqä|Translit=jätäćänanäqä
 6	ነበር	ነበር	AUX	_	_	0	root	_	Gloss=was|LTranslit=näbärə|Translit=näbärə
-7	።	።	PUNCT	_	_	0	punct	_	Gloss=.|LTranslit=.|Translit=.
+7	።	።	PUNCT	_	_	6	punct	_	Gloss=.|LTranslit=.|Translit=.
 
